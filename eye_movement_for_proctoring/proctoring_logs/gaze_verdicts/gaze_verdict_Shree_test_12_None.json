@@ -1,0 +1,8 @@
+{
+  "verdict": "NOT_CHEATED",
+  "confidence": 1.0,
+  "reasons": [
+    "No suspicious events detected during the exam."
+  ],
+  "recommended_action": "No further action required."
+}

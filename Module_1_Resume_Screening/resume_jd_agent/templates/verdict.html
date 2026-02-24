@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Proctoring Verdict</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .assessment-card {
+            background: white;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-top: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .session-info {
+            background: #f8f9fa;
+            border-left: 5px solid #667eea;
+            padding: 15px 20px;
+            margin-bottom: 25px;
+            font-weight: 600;
+        }
+
+        .verdict-badge {
+            display: inline-block;
+            padding: 10px 25px;
+            border-radius: 25px;
+            font-weight: 700;
+            font-size: 1rem;
+            margin-bottom: 20px;
+        }
+
+        .badge-cheated {
+            background: #ffebee;
+            color: #c62828;
+        }
+
+        .badge-suspicious {
+            background: #fff8e1;
+            color: #ef6c00;
+        }
+
+        .badge-pass {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+
+        .badge-review {
+            background: #ede7f6;
+            color: #5e35b1;
+        }
+
+        .badge-fail {
+            background: #eceff1;
+            color: #37474f;
+        }
+
+        .confidence-section {
+            margin-bottom: 30px;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 18px;
+            background: #eee;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .reasons-box {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .reasons-box ul {
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+
+        .action-box {
+            background: #e3f2fd;
+            border-left: 5px solid #2196f3;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .raw-json {
+            background: #111;
+            color: #0f0;
+            padding: 20px;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-family: monospace;
+            font-size: 0.9rem;
+            display: none;
+            margin-top: 15px;
+        }
+
+        .btn {
+            padding: 10px 25px;
+            border-radius: 25px;
+            border: none;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .btn-secondary {
+            background: white;
+            border: 2px solid #667eea;
+            color: #667eea;
+        }
+
+        .btn-secondary:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .action-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 25px;
+        }
+
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <div class="assessment-card">
+
+        <div class="header">
+            <h1>Final Assessment Decision</h1>
+        </div>
+
+        <div class="session-info">
+            {% set username = sess_key.split('_')[0] %}
+            <p><strong>User:</strong> {{ username }}</p>
+        </div>
+
+        {% if error %}
+            <div style="color:red; font-weight:600;">
+                {{ error }}
+            </div>
+        {% else %}
+
+            {% set decision_raw = verdict.final_decision %}
+            {% set decision_label = decision_raw.replace('_', ' ').title() %}
+            {% set confidence_pct = (verdict.confidence * 100) | round(1) %}
+
+            <div style="text-align:center;">
+                <div class="verdict-badge
+                    {% if decision_raw == 'CHEATED' %}badge-cheated
+                    {% elif decision_raw == 'SUSPICIOUS' %}badge-suspicious
+                    {% elif decision_raw == 'PASS_TO_NEXT_ROUND' %}badge-pass
+                    {% elif decision_raw == 'REVIEW_MANUALLY' %}badge-review
+                    {% elif decision_raw == 'DO_NOT_PASS' %}badge-fail
+                    {% else %}badge-pass
+                    {% endif %}">
+                    {{ decision_label }}
+                </div>
+            </div>
+
+            <div class="confidence-section">
+                <strong>Confidence:</strong> {{ confidence_pct }}%
+                <div class="progress-bar">
+                    <div class="progress-fill"
+                         style="width: {{ confidence_pct }}%;">
+                    </div>
+                </div>
+            </div>
+
+            <div class="reasons-box">
+                <strong>Reasons:</strong>
+                <ul>
+                    {% for reason in verdict.reasons %}
+                        <li>{{ reason }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="action-box">
+                <strong>Recommended Action:</strong><br><br>
+                {{ verdict.recommended_action }}
+            </div>
+
+            <button class="btn btn-secondary"
+                    onclick="toggleRaw()">Toggle Raw JSON</button>
+
+            <div id="raw-json" class="raw-json">
+                <pre>{{ verdict | tojson(indent=2) }}</pre>
+            </div>
+
+        {% endif %}
+
+        <div class="action-buttons">
+            <a href="/" class="btn btn-secondary">Return to Home</a>
+        </div>
+
+    </div>
+</div>
+
+<script>
+function toggleRaw() {
+    const raw = document.getElementById("raw-json");
+    raw.style.display = raw.style.display === "none" ? "block" : "none";
+}
+</script>
+
+</body>
+</html>

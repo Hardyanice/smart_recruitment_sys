@@ -1,0 +1,2278 @@
+jd_id,job_title,max_score,avg_top5
+1385,Network Administrator,33.02,24.666000000000004
+1377,Django Developer,28.29,24.374
+68,PHP Developer,35.88,21.828
+909,JavaScript Developer,22.0,20.881999999999998
+967,Node js developer,20.9,20.738
+572,PHP Developer,24.08,20.082
+1836,JavaScript Developer,27.68,19.578
+1987,Network Administrator,30.79,19.491999999999997
+142,Network Administrator,22.17,19.058
+982,Backend Developer,24.0,18.712
+1554,Machine Learning,22.36,18.274
+1196,Node js developer,26.68,18.068
+1075,Network Administrator,26.51,18.032
+1813,Network Administrator,30.09,17.846
+1384,Java Developer,20.26,17.512
+1187,PHP Developer,22.03,17.342000000000002
+1044,PHP Developer,22.01,17.31
+806,Database Administrator,40.79,17.062
+2160,Wordpress Developer,18.89,16.914
+1204,Network Administrator,21.87,16.896
+2041,Database Administrator,23.0,16.846
+2137,Network Administrator,27.8,16.688
+945,Network Administrator,26.88,16.408
+812,Network Administrator,28.88,16.266
+343,Software Engineer,24.23,16.144
+1971,Network Administrator,32.17,16.12
+881,Network Administrator,21.92,16.060000000000002
+657,DevOps Engineer,23.9,15.991999999999999
+825,JavaScript Developer,16.93,15.98
+339,Network Administrator,24.48,15.866000000000003
+330,Flutter Developer,22.8,15.803999999999998
+1037,Software Engineer,25.55,15.791999999999998
+2023,Backend Developer,19.49,15.607999999999999
+259,Node js developer,22.77,15.442000000000002
+131,Network Administrator,27.38,15.404
+160,PHP Developer,16.53,15.344
+823,Network Administrator,25.2,15.219999999999999
+1774,Backend Developer,20.47,15.060000000000002
+1498,JavaScript Developer,16.75,14.902000000000001
+1189,Wordpress Developer,15.67,14.758
+2149,Wordpress Developer,18.3,14.754000000000001
+1577,PHP Developer,15.34,14.6
+589,Network Administrator,24.17,14.562000000000001
+1528,Network Administrator,27.14,14.496
+2163,Network Administrator,27.32,14.445999999999998
+370,Flutter Developer,16.04,14.412
+1076,Network Administrator,25.2,14.34
+1124,PHP Developer,15.17,14.309999999999999
+785,Django Developer,20.23,14.268
+856,Software Engineer,26.96,14.265999999999996
+1461,Node js developer,14.57,14.258000000000001
+320,Network Administrator,18.54,14.252
+1159,Flutter Developer,17.28,14.190000000000001
+1501,PHP Developer,17.89,14.184000000000001
+359,Django Developer,17.68,14.114
+87,Java Developer,19.11,14.1
+1679,Network Administrator,19.15,14.012
+936,Java Developer,22.05,13.943999999999999
+1283,Network Administrator,25.72,13.928
+669,Network Administrator,23.48,13.921999999999997
+1633,Flutter Developer,14.41,13.892
+1157,Wordpress Developer,15.94,13.866
+1614,Java Developer,22.11,13.802000000000001
+364,Network Administrator,27.49,13.792000000000002
+2113,Node js developer,14.51,13.742
+602,Flutter Developer,19.99,13.717999999999998
+446,Node js developer,15.12,13.692000000000002
+2027,Django Developer,20.41,13.692000000000002
+1781,PHP Developer,15.22,13.675999999999998
+1838,Backend Developer,16.21,13.638
+1973,Flutter Developer,17.2,13.626
+1699,DevOps Engineer,19.02,13.546000000000001
+1575,Node js developer,17.5,13.538
+2058,PHP Developer,15.33,13.526
+1346,Network Administrator,27.41,13.506
+1617,Node js developer,16.75,13.475999999999999
+1245,Backend Developer,14.9,13.368
+2217,Network Administrator,22.08,13.344
+192,Machine Learning,21.34,13.318000000000001
+2215,Network Administrator,25.95,13.306000000000001
+260,PHP Developer,18.83,13.295999999999998
+1980,Node js developer,15.63,13.288000000000002
+530,Network Administrator,20.75,13.274000000000001
+1705,Database Administrator,19.82,13.274000000000001
+17,iOS Developer,20.34,13.25
+1266,iOS Developer,20.34,13.25
+1223,Java Developer,16.28,13.219999999999999
+1762,Node js developer,17.59,13.2
+427,Network Administrator,25.28,13.196000000000002
+902,JavaScript Developer,17.42,13.181999999999999
+36,Network Administrator,21.79,13.162
+97,Wordpress Developer,23.18,13.145999999999997
+457,Backend Developer,16.72,13.097999999999999
+1999,Java Developer,19.15,13.081999999999999
+413,PHP Developer,16.89,13.081999999999999
+299,Backend Developer,14.52,13.075999999999999
+2085,Backend Developer,14.41,13.046000000000001
+99,Node js developer,14.55,13.01
+2055,Network Administrator,23.72,13.005999999999997
+1655,Network Administrator,24.3,13.001999999999999
+1436,Java Developer,13.92,12.986
+1059,Backend Developer,14.48,12.984
+1921,PHP Developer,15.71,12.928
+738,Network Administrator,20.74,12.876
+387,Full Stack Developer,14.19,12.874
+786,Django Developer,16.7,12.848000000000003
+1995,Java Developer,14.18,12.847999999999999
+1016,Database Administrator,14.0,12.842000000000002
+2009,PHP Developer,16.92,12.836000000000002
+1497,PHP Developer,16.08,12.831999999999999
+1236,Network Administrator,20.15,12.822
+1818,Network Administrator,28.21,12.813999999999998
+1133,Flutter Developer,17.62,12.810000000000002
+964,Software Engineer,19.44,12.797999999999998
+94,Database Administrator,14.92,12.794
+50,Flutter Developer,14.57,12.71
+464,Machine Learning,15.72,12.674000000000001
+422,Backend Developer,14.14,12.674
+2260,Java Developer,14.24,12.669999999999998
+710,JavaScript Developer,15.66,12.658
+1360,PHP Developer,13.47,12.644
+2251,Network Administrator,22.29,12.569999999999999
+855,Software Engineer,16.92,12.568000000000001
+1165,Software Engineer,14.19,12.565999999999999
+2130,Network Administrator,14.84,12.562000000000001
+1090,Django Developer,15.54,12.52
+1238,PHP Developer,16.88,12.517999999999999
+1382,Backend Developer,14.95,12.482000000000001
+1625,PHP Developer,15.33,12.466000000000001
+1909,Java Developer,15.22,12.456
+182,Network Administrator,24.05,12.442000000000002
+1,Django Developer,14.06,12.422
+175,Machine Learning,14.18,12.402000000000001
+1207,Network Administrator,17.31,12.4
+1615,JavaScript Developer,15.74,12.388
+1064,DevOps Engineer,15.04,12.378
+1804,JavaScript Developer,15.34,12.331999999999999
+580,Network Administrator,22.74,12.322
+743,Network Administrator,15.63,12.31
+1023,Node js developer,15.02,12.276
+372,Network Administrator,16.93,12.260000000000002
+38,Network Administrator,15.64,12.2
+197,Java Developer,15.36,12.197999999999999
+1904,JavaScript Developer,15.87,12.193999999999999
+1717,Backend Developer,15.61,12.193999999999999
+1313,Java Developer,17.98,12.190000000000001
+1372,Software Engineer,14.02,12.175999999999998
+1323,Network Administrator,19.1,12.156
+1376,Flutter Developer,16.36,12.14
+147,Wordpress Developer,27.0,12.13
+91,Backend Developer,13.72,12.124
+975,Java Developer,17.83,12.117999999999999
+1269,Network Administrator,16.25,12.108
+1791,JavaScript Developer,15.3,12.097999999999999
+893,Software Engineer,18.87,12.084
+1383,JavaScript Developer,17.44,12.06
+1945,Node js developer,15.74,12.005999999999998
+1035,Django Developer,14.32,12.001999999999999
+89,DevOps Engineer,16.92,11.994
+1902,DevOps Engineer,22.37,11.99
+958,DevOps Engineer,14.91,11.984
+1768,PHP Developer,13.59,11.977999999999998
+1915,Node js developer,17.08,11.974
+1116,Node js developer,18.04,11.974
+592,Flutter Developer,14.74,11.964000000000002
+2080,DevOps Engineer,13.98,11.962
+886,Node js developer,16.07,11.962
+965,Full Stack Developer,14.58,11.948
+2233,Software Engineer,22.1,11.940000000000001
+2039,DevOps Engineer,18.03,11.938000000000002
+1502,DevOps Engineer,13.02,11.916
+923,Backend Developer,22.39,11.913999999999998
+16,Wordpress Developer,16.17,11.876000000000001
+1735,Node js developer,17.58,11.872000000000002
+1592,Node js developer,15.19,11.872
+2020,Machine Learning,12.31,11.863999999999999
+1140,Flutter Developer,13.78,11.854000000000001
+947,Java Developer,15.56,11.846
+1014,JavaScript Developer,14.34,11.822
+864,iOS Developer,12.27,11.802000000000001
+1715,Node js developer,13.9,11.790000000000001
+1170,Django Developer,16.18,11.785999999999998
+745,Django Developer,13.59,11.784
+1267,Network Administrator,15.87,11.778
+347,Django Developer,17.83,11.774
+453,Network Administrator,26.82,11.766
+2050,iOS Developer,15.69,11.744000000000002
+642,JavaScript Developer,16.95,11.732
+2034,PHP Developer,13.29,11.727999999999998
+873,Flutter Developer,12.82,11.724
+201,PHP Developer,12.92,11.721999999999998
+501,PHP Developer,12.62,11.712
+643,Flutter Developer,14.05,11.702000000000002
+1164,Network Administrator,15.84,11.684000000000001
+1139,Node js developer,13.35,11.678
+1507,Django Developer,12.45,11.676
+1253,JavaScript Developer,15.44,11.67
+1908,JavaScript Developer,23.35,11.663999999999998
+2252,Django Developer,14.84,11.652000000000001
+426,Backend Developer,15.33,11.636
+2077,Flutter Developer,16.13,11.606
+266,iOS Developer,18.97,11.597999999999999
+406,Software Engineer,14.69,11.592
+1959,Flutter Developer,14.54,11.588
+599,Software Engineer,13.02,11.580000000000002
+2254,Node js developer,18.13,11.541999999999998
+350,Flutter Developer,12.16,11.511999999999999
+1336,Node js developer,19.61,11.51
+1408,Node js developer,16.6,11.508
+559,Network Administrator,26.28,11.501999999999999
+2127,PHP Developer,16.45,11.472
+324,Network Administrator,20.26,11.456
+799,PHP Developer,19.16,11.443999999999999
+425,Node js developer,14.32,11.443999999999999
+1530,PHP Developer,16.33,11.437999999999999
+654,Django Developer,13.11,11.428
+417,Node js developer,12.34,11.422
+1086,Node js developer,14.7,11.416
+935,iOS Developer,11.78,11.406
+2253,Django Developer,15.86,11.404
+1914,Java Developer,14.56,11.396
+1070,Network Administrator,20.61,11.394000000000002
+466,Backend Developer,13.4,11.388
+1013,Database Administrator,13.09,11.370000000000001
+1852,JavaScript Developer,13.16,11.361999999999998
+1875,Flutter Developer,17.23,11.357999999999999
+1115,Node js developer,14.57,11.35
+1722,iOS Developer,16.37,11.348
+1510,Django Developer,13.74,11.335999999999999
+1966,PHP Developer,12.83,11.334
+1273,Full Stack Developer,15.33,11.330000000000002
+1290,iOS Developer,12.69,11.318000000000001
+2166,Software Engineer,17.53,11.312000000000001
+1603,Java Developer,13.47,11.304
+1147,Flutter Developer,16.74,11.301999999999998
+1158,JavaScript Developer,18.02,11.298
+1862,Flutter Developer,18.95,11.296000000000001
+900,iOS Developer,18.95,11.296000000000001
+1220,iOS Developer,13.39,11.296
+2053,Flutter Developer,13.69,11.291999999999998
+1228,iOS Developer,12.92,11.290000000000001
+1792,JavaScript Developer,15.18,11.27
+1834,PHP Developer,12.95,11.267999999999999
+1857,Java Developer,14.64,11.264
+257,Wordpress Developer,13.61,11.26
+878,Backend Developer,12.65,11.258000000000001
+2208,PHP Developer,16.4,11.254
+2220,Java Developer,15.48,11.254
+595,Network Administrator,24.3,11.248
+1255,JavaScript Developer,12.83,11.238
+1815,iOS Developer,13.9,11.23
+167,Java Developer,15.15,11.209999999999999
+1975,Django Developer,14.26,11.201999999999998
+1055,PHP Developer,11.89,11.2
+1793,Software Engineer,13.25,11.192
+254,JavaScript Developer,17.18,11.18
+843,PHP Developer,16.16,11.175999999999998
+2235,PHP Developer,18.25,11.166
+1952,Flutter Developer,13.46,11.162
+458,Node js developer,13.61,11.15
+1249,Software Engineer,15.57,11.144
+424,Node js developer,15.31,11.14
+73,Flutter Developer,13.39,11.126
+1203,JavaScript Developer,17.69,11.118
+1362,Network Administrator,20.6,11.117999999999999
+1672,Django Developer,13.25,11.116000000000001
+472,DevOps Engineer,11.33,11.112
+1106,Machine Learning,16.26,11.108
+211,Django Developer,13.36,11.062000000000001
+376,Network Administrator,19.39,11.059999999999999
+1933,Node js developer,13.98,11.038
+867,Database Administrator,18.34,11.032
+1211,Node js developer,13.35,11.022
+991,Network Administrator,17.65,11.006
+1149,JavaScript Developer,13.98,11.006
+2238,Wordpress Developer,11.84,10.991999999999999
+102,Node js developer,13.52,10.976
+209,PHP Developer,15.72,10.970000000000002
+1840,PHP Developer,13.24,10.954
+877,Full Stack Developer,12.46,10.95
+1879,PHP Developer,12.72,10.95
+162,Node js developer,21.74,10.941999999999998
+410,Backend Developer,11.45,10.924000000000001
+149,Flutter Developer,12.27,10.92
+242,Node js developer,12.09,10.918
+1520,Node js developer,12.46,10.906
+230,Backend Developer,12.37,10.902000000000001
+2116,PHP Developer,12.11,10.894
+718,Java Developer,14.85,10.882
+1580,Wordpress Developer,13.73,10.878
+1274,Flutter Developer,12.39,10.878
+1894,Backend Developer,17.94,10.876
+229,Software Engineer,13.74,10.872
+377,Node js developer,15.76,10.866
+396,Java Developer,19.39,10.860000000000001
+124,Backend Developer,15.31,10.850000000000001
+1701,Django Developer,15.4,10.847999999999999
+1876,Network Administrator,13.92,10.846
+1905,Network Administrator,19.0,10.83
+280,Software Engineer,20.34,10.822
+1689,Java Developer,12.93,10.816
+623,Java Developer,21.73,10.808
+70,Flutter Developer,11.58,10.8
+233,Java Developer,15.75,10.8
+1827,Backend Developer,16.07,10.796000000000001
+942,iOS Developer,17.38,10.782
+1393,Flutter Developer,12.14,10.782
+1107,Java Developer,12.54,10.778
+24,PHP Developer,13.51,10.77
+1288,JavaScript Developer,15.1,10.758
+885,Machine Learning,12.32,10.75
+1066,Software Engineer,12.43,10.749999999999998
+2237,Flutter Developer,14.11,10.739999999999998
+2258,Software Engineer,14.91,10.726
+1957,Java Developer,16.08,10.724
+1363,Java Developer,18.07,10.722
+452,JavaScript Developer,15.49,10.722
+2008,Backend Developer,18.66,10.719999999999999
+1285,JavaScript Developer,12.79,10.718
+1465,Java Developer,16.52,10.701999999999998
+1863,iOS Developer,13.67,10.693999999999999
+1847,Java Developer,15.05,10.692
+2017,Java Developer,11.55,10.691999999999998
+1872,Node js developer,16.78,10.684000000000001
+708,Node js developer,13.23,10.675999999999998
+1850,Network Administrator,24.89,10.672
+970,Database Administrator,12.77,10.67
+1041,Flutter Developer,14.56,10.668000000000001
+1088,PHP Developer,18.4,10.668000000000001
+1636,Node js developer,14.72,10.666
+1224,DevOps Engineer,16.43,10.661999999999997
+141,PHP Developer,14.91,10.66
+2084,JavaScript Developer,13.39,10.656
+1080,iOS Developer,15.37,10.654
+134,Network Administrator,20.16,10.65
+120,PHP Developer,12.19,10.638000000000002
+1063,Java Developer,16.42,10.632000000000001
+1721,Network Administrator,16.97,10.622000000000002
+1794,Java Developer,15.31,10.617999999999999
+1563,Software Engineer,19.5,10.614
+903,Network Administrator,16.38,10.61
+1069,Backend Developer,13.98,10.604
+392,Django Developer,17.38,10.602
+444,Machine Learning,16.33,10.6
+905,Java Developer,14.04,10.594
+1594,Network Administrator,13.66,10.584
+367,PHP Developer,13.19,10.572
+484,Django Developer,12.19,10.569999999999999
+1186,iOS Developer,12.91,10.565999999999999
+1192,iOS Developer,12.74,10.56
+1198,DevOps Engineer,11.31,10.554
+750,Node js developer,13.71,10.526
+517,Database Administrator,13.87,10.518
+232,DevOps Engineer,17.5,10.506
+287,Backend Developer,13.93,10.506
+2071,Network Administrator,19.64,10.494000000000002
+1188,Wordpress Developer,13.56,10.494
+859,Django Developer,11.82,10.492
+1984,PHP Developer,13.6,10.492
+719,JavaScript Developer,13.58,10.459999999999999
+760,Database Administrator,12.9,10.438
+1770,Machine Learning,12.92,10.436
+2154,JavaScript Developer,14.37,10.434
+952,DevOps Engineer,14.47,10.429999999999998
+659,Network Administrator,17.15,10.395999999999999
+1797,Java Developer,13.39,10.386
+533,Full Stack Developer,10.95,10.367999999999999
+1286,Network Administrator,14.46,10.360000000000001
+553,PHP Developer,13.57,10.358
+528,Django Developer,12.43,10.358
+273,iOS Developer,14.61,10.34
+385,JavaScript Developer,12.92,10.325999999999999
+1344,Network Administrator,21.83,10.324
+1015,Backend Developer,13.7,10.315999999999999
+883,iOS Developer,12.95,10.31
+857,Software Engineer,13.08,10.303999999999998
+526,Full Stack Developer,12.53,10.3
+2117,Java Developer,10.7,10.298
+1515,Software Engineer,14.75,10.296
+214,PHP Developer,11.89,10.284
+265,Node js developer,11.77,10.282
+481,Full Stack Developer,15.05,10.264
+836,Flutter Developer,11.59,10.260000000000002
+1427,JavaScript Developer,11.19,10.258
+779,Software Engineer,12.5,10.254
+1855,Database Administrator,16.48,10.25
+925,iOS Developer,12.42,10.245999999999999
+1833,Django Developer,11.36,10.236
+1648,iOS Developer,12.72,10.23
+2255,Node js developer,11.79,10.23
+1416,Flutter Developer,12.77,10.23
+1511,DevOps Engineer,14.38,10.226
+1574,PHP Developer,12.54,10.224
+2018,Django Developer,14.87,10.212
+1706,iOS Developer,13.14,10.2
+932,Network Administrator,17.53,10.188
+1534,Backend Developer,14.42,10.187999999999999
+1226,Backend Developer,16.09,10.181999999999999
+173,Full Stack Developer,11.35,10.177999999999999
+334,JavaScript Developer,12.39,10.176
+47,DevOps Engineer,14.77,10.163999999999998
+228,Wordpress Developer,13.94,10.16
+805,Network Administrator,20.98,10.16
+2209,iOS Developer,14.13,10.154
+1678,Network Administrator,17.05,10.150000000000002
+166,Wordpress Developer,11.04,10.15
+1061,Network Administrator,21.28,10.146
+1880,Flutter Developer,19.99,10.145999999999997
+1527,JavaScript Developer,12.35,10.142
+892,Software Engineer,11.74,10.138
+1329,Flutter Developer,13.1,10.126
+1262,PHP Developer,14.42,10.11
+2105,Backend Developer,15.27,10.11
+972,JavaScript Developer,11.87,10.108
+2074,Java Developer,11.92,10.105999999999998
+769,PHP Developer,12.22,10.102
+1685,Wordpress Developer,11.53,10.092
+1448,Full Stack Developer,13.27,10.09
+55,PHP Developer,15.25,10.084
+432,Flutter Developer,12.3,10.081999999999999
+1553,PHP Developer,15.19,10.075999999999999
+306,JavaScript Developer,11.0,10.072
+1310,iOS Developer,13.91,10.062
+754,Node js developer,11.47,10.062
+610,Node js developer,11.32,10.059999999999999
+2157,Network Administrator,14.68,10.054
+1541,Node js developer,17.96,10.038
+252,Flutter Developer,14.99,10.036
+2227,Node js developer,13.56,10.032
+1426,Django Developer,16.13,10.010000000000002
+1118,iOS Developer,14.86,10.004
+185,Software Engineer,18.55,10.002
+1805,Backend Developer,12.06,10.001999999999999
+539,Flutter Developer,15.28,10.0
+919,iOS Developer,15.28,10.0
+156,Flutter Developer,10.17,9.998000000000001
+1695,Network Administrator,17.12,9.998
+2177,Java Developer,13.34,9.995999999999999
+1151,Machine Learning,11.65,9.99
+1455,Java Developer,12.16,9.989999999999998
+514,Backend Developer,15.2,9.988
+1057,Flutter Developer,13.77,9.987999999999998
+2241,Database Administrator,12.0,9.986
+66,Node js developer,11.41,9.98
+1265,Django Developer,17.25,9.972
+216,Network Administrator,18.58,9.966
+1167,PHP Developer,11.69,9.964000000000002
+1651,DevOps Engineer,11.85,9.956
+1922,Django Developer,13.64,9.956
+2022,Java Developer,11.71,9.95
+1156,JavaScript Developer,12.39,9.948
+303,iOS Developer,17.24,9.947999999999999
+822,iOS Developer,13.54,9.946000000000002
+547,Machine Learning,12.48,9.940000000000001
+477,Node js developer,15.58,9.937999999999999
+1183,Machine Learning,12.84,9.936
+2243,Backend Developer,13.61,9.931999999999999
+1296,Database Administrator,10.75,9.926
+1258,Network Administrator,18.11,9.919999999999998
+590,Java Developer,13.06,9.913999999999998
+1602,Node js developer,19.91,9.91
+5,Java Developer,11.55,9.896
+874,Django Developer,11.58,9.894000000000002
+1112,JavaScript Developer,10.69,9.894
+2142,Network Administrator,15.46,9.892
+72,Full Stack Developer,14.58,9.888000000000002
+593,DevOps Engineer,13.41,9.882
+679,Flutter Developer,14.08,9.874
+2147,PHP Developer,15.8,9.868
+1772,Full Stack Developer,14.15,9.862
+783,Django Developer,13.59,9.854
+570,Network Administrator,13.57,9.83
+292,PHP Developer,14.22,9.822
+1011,Wordpress Developer,14.22,9.822
+1925,Backend Developer,11.74,9.818000000000001
+1665,JavaScript Developer,13.11,9.812000000000001
+2152,Flutter Developer,10.43,9.809999999999999
+1092,Node js developer,12.27,9.809999999999999
+801,Software Engineer,15.69,9.806000000000001
+1131,Software Engineer,11.61,9.803999999999998
+1802,Network Administrator,15.78,9.792
+115,JavaScript Developer,13.09,9.792
+196,Software Engineer,14.92,9.791999999999998
+1337,iOS Developer,15.05,9.79
+1517,PHP Developer,11.55,9.788
+2229,Django Developer,14.2,9.788
+1155,Network Administrator,17.08,9.788
+479,Full Stack Developer,11.23,9.778
+375,Node js developer,12.92,9.778
+1996,Network Administrator,18.32,9.776
+245,Wordpress Developer,11.96,9.776
+1391,Node js developer,10.22,9.772
+1555,Django Developer,12.28,9.77
+455,Wordpress Developer,10.92,9.766
+1180,Flutter Developer,10.68,9.764
+1789,JavaScript Developer,17.99,9.762
+180,Node js developer,11.67,9.762
+753,Django Developer,14.09,9.745999999999999
+997,Django Developer,11.67,9.744
+887,Network Administrator,20.4,9.741999999999999
+399,Network Administrator,17.28,9.738
+1823,Django Developer,16.36,9.727999999999998
+1484,Network Administrator,14.92,9.706
+869,JavaScript Developer,12.52,9.698
+393,Machine Learning,11.73,9.693999999999999
+861,Node js developer,11.99,9.690000000000001
+1051,JavaScript Developer,11.63,9.684000000000001
+1906,Flutter Developer,10.42,9.677999999999999
+2226,Full Stack Developer,13.36,9.675999999999998
+934,PHP Developer,14.51,9.675999999999998
+132,Backend Developer,11.76,9.674
+1353,Flutter Developer,12.07,9.662
+1798,PHP Developer,13.5,9.66
+1326,Java Developer,13.92,9.648
+1585,PHP Developer,13.08,9.644
+152,Wordpress Developer,11.94,9.644
+847,Software Engineer,10.45,9.642
+34,Backend Developer,12.24,9.64
+1680,Machine Learning,12.46,9.64
+2179,JavaScript Developer,17.1,9.638000000000002
+1877,Backend Developer,11.58,9.632000000000001
+1071,Database Administrator,15.12,9.632
+179,Django Developer,9.8,9.626000000000001
+858,Network Administrator,12.36,9.626
+1990,Software Engineer,12.52,9.623999999999999
+1202,Wordpress Developer,12.82,9.62
+1137,Django Developer,11.67,9.618
+1607,Network Administrator,18.12,9.616
+2156,iOS Developer,12.0,9.61
+1358,PHP Developer,13.78,9.61
+309,Django Developer,10.23,9.61
+2211,Django Developer,13.3,9.606
+1352,Software Engineer,16.82,9.602
+54,PHP Developer,17.24,9.599999999999998
+842,iOS Developer,12.71,9.59
+1315,Database Administrator,12.87,9.582
+441,iOS Developer,11.99,9.582
+1686,Node js developer,12.69,9.58
+1038,Network Administrator,21.98,9.578
+2216,Wordpress Developer,12.83,9.575999999999999
+868,PHP Developer,12.26,9.574000000000002
+1745,Software Engineer,11.02,9.574
+930,Full Stack Developer,12.47,9.569999999999999
+1146,Network Administrator,15.06,9.568000000000001
+408,Node js developer,11.74,9.562000000000001
+658,Software Engineer,10.44,9.559999999999999
+529,Django Developer,14.31,9.558000000000002
+1398,Django Developer,14.06,9.556000000000001
+2178,Node js developer,12.05,9.553999999999998
+1452,PHP Developer,17.74,9.552
+1942,iOS Developer,11.56,9.548
+1522,JavaScript Developer,11.67,9.542
+1865,Flutter Developer,11.37,9.536
+668,Database Administrator,12.32,9.528
+286,Wordpress Developer,16.26,9.524000000000001
+1303,Full Stack Developer,11.91,9.508000000000001
+123,Node js developer,10.64,9.508000000000001
+1462,Flutter Developer,10.86,9.505999999999998
+43,Wordpress Developer,10.64,9.494
+2118,Django Developer,13.88,9.492
+1077,Flutter Developer,14.36,9.49
+1800,PHP Developer,12.0,9.488
+781,Django Developer,10.91,9.488
+226,Database Administrator,10.53,9.486
+1616,Database Administrator,10.97,9.48
+2262,Backend Developer,12.18,9.472000000000001
+2004,Django Developer,13.96,9.468
+1944,Network Administrator,13.02,9.468
+31,PHP Developer,12.31,9.458
+854,Software Engineer,12.05,9.456
+810,Wordpress Developer,12.66,9.452
+1160,Node js developer,10.74,9.450000000000001
+1278,Network Administrator,16.23,9.447999999999999
+1542,iOS Developer,11.97,9.440000000000001
+617,iOS Developer,11.6,9.437999999999999
+641,Java Developer,11.78,9.436
+1532,DevOps Engineer,15.86,9.428
+1647,Software Engineer,15.4,9.428
+652,Flutter Developer,9.98,9.420000000000002
+677,Network Administrator,12.31,9.42
+300,JavaScript Developer,12.37,9.411999999999999
+597,Backend Developer,11.66,9.41
+2075,DevOps Engineer,18.19,9.404
+651,iOS Developer,10.94,9.388
+198,iOS Developer,10.94,9.388
+223,Django Developer,13.49,9.378
+906,PHP Developer,15.31,9.376000000000001
+1373,Flutter Developer,13.09,9.373999999999999
+778,iOS Developer,11.89,9.372
+1583,Java Developer,14.22,9.37
+557,Full Stack Developer,11.93,9.366
+819,Machine Learning,11.1,9.358
+1259,Django Developer,11.71,9.356
+1119,PHP Developer,12.87,9.354
+1598,Wordpress Developer,13.56,9.348
+2037,Django Developer,16.75,9.347999999999999
+151,Network Administrator,16.18,9.344
+2016,iOS Developer,14.39,9.338000000000001
+1433,Django Developer,13.67,9.324000000000002
+1943,PHP Developer,10.78,9.324
+1982,Software Engineer,10.77,9.324
+1951,Software Engineer,11.06,9.318
+656,JavaScript Developer,11.47,9.318
+1986,Node js developer,11.7,9.313999999999998
+614,Node js developer,13.44,9.312
+507,Software Engineer,16.9,9.309999999999999
+463,DevOps Engineer,16.9,9.309999999999999
+1896,Backend Developer,10.97,9.304
+1410,DevOps Engineer,11.75,9.302000000000001
+519,Flutter Developer,11.59,9.3
+1485,Software Engineer,16.56,9.296
+2001,Django Developer,14.03,9.286000000000001
+81,Flutter Developer,9.63,9.286
+434,Flutter Developer,10.86,9.286
+415,iOS Developer,12.45,9.274000000000001
+803,Software Engineer,11.42,9.264
+1143,Java Developer,14.56,9.262
+1788,Django Developer,14.43,9.25
+1405,DevOps Engineer,9.67,9.248000000000001
+2136,Django Developer,10.45,9.248
+835,Flutter Developer,10.77,9.242
+968,Flutter Developer,13.97,9.224
+2218,Network Administrator,14.56,9.222
+1298,PHP Developer,10.64,9.22
+1134,PHP Developer,12.95,9.214
+713,Backend Developer,10.93,9.198
+1526,Backend Developer,11.67,9.196
+1111,Flutter Developer,10.29,9.190000000000001
+1334,JavaScript Developer,10.11,9.19
+628,DevOps Engineer,14.41,9.188
+587,Backend Developer,18.57,9.187999999999999
+1073,Django Developer,12.4,9.187999999999999
+1584,Software Engineer,10.6,9.184
+717,Flutter Developer,13.88,9.18
+1707,JavaScript Developer,14.35,9.178
+2100,Flutter Developer,10.3,9.178
+807,Network Administrator,12.8,9.17
+474,Django Developer,11.93,9.16
+1386,Node js developer,13.2,9.152
+983,Django Developer,17.01,9.148
+985,JavaScript Developer,11.25,9.142
+583,Java Developer,10.82,9.14
+1301,Software Engineer,10.97,9.14
+833,Machine Learning,15.37,9.134
+1252,JavaScript Developer,13.09,9.134
+95,Full Stack Developer,11.32,9.128
+1141,Node js developer,12.87,9.127999999999998
+1350,DevOps Engineer,11.73,9.124
+564,Software Engineer,13.12,9.116
+2165,iOS Developer,13.01,9.104000000000001
+521,Django Developer,10.58,9.1
+2196,Java Developer,12.03,9.094
+584,DevOps Engineer,10.16,9.088
+1150,Flutter Developer,9.65,9.081999999999999
+1418,iOS Developer,11.96,9.07
+122,JavaScript Developer,13.49,9.063999999999998
+1759,Backend Developer,10.37,9.062000000000001
+1859,iOS Developer,11.27,9.052000000000001
+640,Java Developer,13.65,9.05
+1929,Full Stack Developer,10.62,9.049999999999999
+1749,Software Engineer,12.47,9.046
+1206,DevOps Engineer,10.38,9.044
+397,PHP Developer,11.73,9.044
+971,Backend Developer,10.74,9.024000000000001
+1830,Backend Developer,14.4,9.017999999999999
+726,JavaScript Developer,10.5,9.014
+1714,JavaScript Developer,14.75,9.014
+2129,Machine Learning,12.41,9.012
+538,Network Administrator,13.11,9.012
+2162,iOS Developer,15.28,9.01
+42,Java Developer,12.9,9.008
+384,PHP Developer,10.65,8.99
+247,PHP Developer,11.4,8.976
+1079,Backend Developer,9.28,8.974
+25,iOS Developer,12.14,8.974
+1934,DevOps Engineer,15.88,8.964
+1161,Network Administrator,14.79,8.944
+1130,Software Engineer,9.72,8.942
+1389,Software Engineer,11.43,8.940000000000001
+504,Java Developer,10.91,8.940000000000001
+2061,Machine Learning,11.37,8.934000000000001
+403,Flutter Developer,10.84,8.934000000000001
+757,Node js developer,11.48,8.924
+2159,Flutter Developer,10.9,8.924
+2228,Network Administrator,14.1,8.918000000000001
+1535,Software Engineer,11.74,8.914
+2048,Backend Developer,11.18,8.91
+136,Full Stack Developer,9.37,8.91
+824,Network Administrator,15.97,8.91
+237,PHP Developer,9.46,8.904
+489,PHP Developer,10.22,8.898
+1828,Java Developer,9.89,8.895999999999999
+2011,Django Developer,12.12,8.886
+361,Network Administrator,16.98,8.884
+1294,Wordpress Developer,12.07,8.882000000000001
+1126,Java Developer,13.28,8.882
+1704,iOS Developer,10.71,8.879999999999999
+110,Backend Developer,12.29,8.876000000000001
+117,PHP Developer,13.71,8.876
+1401,Java Developer,13.25,8.866
+1807,Backend Developer,10.02,8.862
+920,iOS Developer,11.12,8.862
+1832,Node js developer,13.8,8.856
+2172,Database Administrator,12.79,8.854
+879,DevOps Engineer,10.99,8.846
+313,Software Engineer,9.65,8.838
+82,Full Stack Developer,12.45,8.834
+706,Django Developer,9.92,8.832
+913,Node js developer,16.58,8.831999999999999
+802,Software Engineer,14.36,8.831999999999999
+1494,Backend Developer,12.68,8.83
+365,Flutter Developer,10.84,8.826
+2150,Node js developer,10.09,8.826
+1755,Flutter Developer,10.38,8.824000000000002
+84,Software Engineer,14.3,8.814
+1817,Node js developer,11.23,8.81
+468,PHP Developer,10.51,8.803999999999998
+1225,Flutter Developer,11.43,8.802
+389,Java Developer,10.61,8.802
+513,Machine Learning,12.51,8.8
+1275,Wordpress Developer,9.86,8.8
+1806,Software Engineer,11.17,8.790000000000001
+231,Java Developer,11.17,8.790000000000001
+709,Java Developer,11.81,8.782
+582,Flutter Developer,9.67,8.778
+88,Database Administrator,9.62,8.778
+35,DevOps Engineer,12.16,8.774
+916,iOS Developer,10.71,8.762
+639,Wordpress Developer,13.71,8.761999999999999
+128,JavaScript Developer,12.37,8.76
+1271,Database Administrator,14.05,8.751999999999999
+1122,iOS Developer,10.88,8.748000000000001
+1197,PHP Developer,13.13,8.746
+1464,PHP Developer,12.51,8.745999999999999
+1581,Software Engineer,15.3,8.742
+1279,Full Stack Developer,9.37,8.736
+1456,Flutter Developer,11.0,8.734
+1529,iOS Developer,11.29,8.728
+776,Network Administrator,15.23,8.726000000000003
+366,DevOps Engineer,11.34,8.724
+1229,iOS Developer,11.1,8.718
+897,Wordpress Developer,10.86,8.716000000000001
+1576,iOS Developer,11.11,8.716
+1536,Django Developer,10.4,8.714
+10,Database Administrator,14.04,8.712
+1917,JavaScript Developer,12.9,8.698
+1178,Software Engineer,12.15,8.698
+1928,Node js developer,14.92,8.696000000000002
+615,Wordpress Developer,9.31,8.693999999999999
+2269,Node js developer,14.22,8.687999999999999
+1127,PHP Developer,13.19,8.684
+1110,DevOps Engineer,14.7,8.681999999999999
+1367,Backend Developer,10.27,8.669999999999998
+574,Software Engineer,12.44,8.666
+1846,Database Administrator,10.62,8.66
+270,iOS Developer,9.55,8.652000000000001
+2271,DevOps Engineer,9.96,8.65
+912,Django Developer,14.3,8.646
+1219,DevOps Engineer,10.46,8.644
+48,iOS Developer,13.2,8.644
+693,Backend Developer,9.98,8.642000000000001
+449,Node js developer,12.24,8.636
+404,PHP Developer,10.89,8.636
+1474,Node js developer,9.79,8.634
+1446,iOS Developer,10.79,8.63
+353,PHP Developer,14.61,8.623999999999999
+2242,Machine Learning,12.28,8.62
+1632,Java Developer,13.07,8.617999999999999
+1045,DevOps Engineer,12.19,8.613999999999999
+1718,Node js developer,13.35,8.612
+411,Backend Developer,9.37,8.61
+32,PHP Developer,11.86,8.604
+890,Machine Learning,10.7,8.604
+2119,Database Administrator,11.75,8.597999999999999
+243,Django Developer,13.62,8.596
+794,Java Developer,12.07,8.581999999999999
+1605,PHP Developer,9.96,8.581999999999999
+927,Node js developer,12.89,8.58
+963,Django Developer,11.54,8.578
+2221,JavaScript Developer,10.72,8.578
+2151,Network Administrator,11.43,8.575999999999999
+1434,Flutter Developer,10.44,8.572000000000001
+374,Java Developer,11.72,8.565999999999999
+442,Network Administrator,12.08,8.562000000000001
+2236,PHP Developer,13.1,8.562
+2121,Backend Developer,12.44,8.559999999999999
+1810,Node js developer,12.84,8.558
+281,Software Engineer,10.85,8.54
+1935,Software Engineer,13.31,8.535999999999998
+1514,Java Developer,10.95,8.533999999999999
+1365,PHP Developer,13.99,8.532
+560,Java Developer,12.69,8.53
+688,PHP Developer,10.06,8.514
+636,Wordpress Developer,10.25,8.514
+698,Java Developer,12.38,8.502
+155,iOS Developer,10.14,8.494
+2201,JavaScript Developer,9.11,8.482
+673,Network Administrator,9.97,8.48
+217,Network Administrator,9.97,8.48
+715,Database Administrator,9.73,8.478
+508,iOS Developer,9.47,8.476
+158,Node js developer,10.81,8.474
+697,JavaScript Developer,17.82,8.472
+1888,Database Administrator,9.75,8.472
+251,Software Engineer,11.81,8.468
+1733,Full Stack Developer,12.41,8.466
+227,Network Administrator,14.19,8.464
+1082,Network Administrator,10.79,8.462
+1711,DevOps Engineer,13.27,8.462
+1282,Flutter Developer,11.69,8.456
+1050,JavaScript Developer,9.36,8.45
+1109,DevOps Engineer,11.41,8.446000000000002
+1842,Machine Learning,11.91,8.442
+1744,JavaScript Developer,10.53,8.442
+966,iOS Developer,10.53,8.431999999999999
+588,Java Developer,11.04,8.426
+1095,DevOps Engineer,12.75,8.422
+133,DevOps Engineer,16.98,8.422
+630,Backend Developer,12.71,8.416
+2024,Node js developer,10.67,8.414
+190,Wordpress Developer,9.77,8.41
+2187,Software Engineer,10.63,8.402000000000001
+1962,Machine Learning,11.44,8.4
+815,Node js developer,9.18,8.39
+821,Django Developer,12.21,8.39
+1619,Full Stack Developer,15.1,8.388000000000002
+277,Java Developer,9.72,8.388
+168,Machine Learning,9.44,8.386000000000001
+240,JavaScript Developer,17.9,8.382
+1371,JavaScript Developer,17.9,8.382
+1333,Machine Learning,10.2,8.378
+1891,JavaScript Developer,12.59,8.364
+1900,iOS Developer,8.67,8.356
+2000,PHP Developer,13.36,8.352
+1589,Database Administrator,10.87,8.352
+2244,Backend Developer,11.33,8.348000000000003
+221,Django Developer,10.01,8.348
+1201,Database Administrator,15.01,8.346
+1307,Node js developer,9.34,8.346
+714,Django Developer,10.78,8.344
+107,PHP Developer,16.45,8.336
+2078,Software Engineer,12.75,8.332
+1977,Django Developer,15.56,8.332
+1839,Network Administrator,24.52,8.328
+253,Java Developer,10.29,8.325999999999999
+1445,iOS Developer,9.94,8.324
+1476,Django Developer,12.48,8.318
+1795,Django Developer,13.16,8.315999999999999
+1978,Machine Learning,11.06,8.314
+872,DevOps Engineer,16.7,8.313999999999998
+2135,PHP Developer,10.65,8.312000000000001
+1835,Node js developer,10.97,8.312000000000001
+1811,JavaScript Developer,10.62,8.31
+607,Software Engineer,13.12,8.309999999999999
+1321,Node js developer,12.96,8.309999999999999
+960,Backend Developer,10.97,8.308
+839,DevOps Engineer,14.62,8.306000000000001
+1407,Node js developer,14.54,8.303999999999998
+1256,Software Engineer,9.78,8.303999999999998
+1007,iOS Developer,11.51,8.302
+816,Django Developer,14.64,8.302
+2158,iOS Developer,13.75,8.297999999999998
+210,Backend Developer,12.21,8.292000000000002
+1487,Wordpress Developer,9.7,8.291999999999998
+1864,Machine Learning,9.05,8.288
+976,Backend Developer,12.2,8.284
+939,Software Engineer,9.37,8.282
+774,iOS Developer,12.38,8.282
+509,Network Administrator,13.9,8.282
+1318,Software Engineer,13.44,8.280000000000001
+119,JavaScript Developer,8.69,8.278
+1965,Backend Developer,8.8,8.276
+1415,JavaScript Developer,9.78,8.276
+342,Full Stack Developer,12.38,8.276
+2019,Network Administrator,12.49,8.272
+1031,Full Stack Developer,10.21,8.268
+1054,iOS Developer,9.8,8.266000000000002
+804,PHP Developer,12.1,8.266
+949,Software Engineer,10.3,8.264
+1661,Java Developer,10.0,8.262
+1322,Node js developer,12.79,8.26
+421,Machine Learning,11.05,8.26
+1562,Backend Developer,11.23,8.258000000000001
+326,Full Stack Developer,9.48,8.256
+1260,Machine Learning,9.54,8.254000000000001
+665,Software Engineer,13.77,8.251999999999999
+523,Machine Learning,11.13,8.250000000000002
+85,Machine Learning,12.87,8.248000000000001
+52,Java Developer,11.2,8.248
+1231,Node js developer,14.86,8.248
+561,DevOps Engineer,12.84,8.248
+1596,Backend Developer,10.43,8.246
+325,Flutter Developer,12.38,8.246
+1597,Java Developer,12.9,8.242
+1573,iOS Developer,10.03,8.232000000000001
+664,Flutter Developer,11.78,8.232
+118,Backend Developer,12.13,8.226
+680,Machine Learning,15.34,8.222000000000001
+1251,Full Stack Developer,9.86,8.222
+1708,PHP Developer,11.03,8.216000000000001
+1195,Full Stack Developer,13.53,8.213999999999999
+1117,Node js developer,12.14,8.21
+2192,Node js developer,9.37,8.206
+2104,Database Administrator,8.85,8.202000000000002
+1765,Java Developer,9.9,8.200000000000001
+755,Django Developer,11.49,8.197999999999999
+332,Software Engineer,12.11,8.196000000000002
+9,Software Engineer,12.76,8.193999999999999
+235,Machine Learning,10.58,8.193999999999999
+2086,Full Stack Developer,9.76,8.186
+605,Machine Learning,10.65,8.184000000000001
+1825,JavaScript Developer,12.87,8.181999999999999
+44,Node js developer,16.67,8.178
+1058,Full Stack Developer,8.82,8.17
+1034,PHP Developer,11.24,8.168000000000001
+322,Software Engineer,12.48,8.168000000000001
+992,Wordpress Developer,9.1,8.168000000000001
+234,Java Developer,13.79,8.168
+113,Java Developer,21.75,8.166
+838,Node js developer,12.37,8.16
+1403,Java Developer,10.04,8.16
+1601,iOS Developer,11.18,8.156
+988,Wordpress Developer,10.5,8.156
+1442,Java Developer,11.31,8.152
+1276,PHP Developer,10.67,8.15
+1009,Network Administrator,15.7,8.146
+704,Full Stack Developer,8.79,8.143999999999998
+1724,Machine Learning,9.68,8.142
+762,iOS Developer,10.23,8.132000000000001
+104,Java Developer,11.71,8.13
+8,DevOps Engineer,10.92,8.128
+139,PHP Developer,11.8,8.122
+692,Flutter Developer,11.65,8.117999999999999
+349,JavaScript Developer,10.3,8.114
+543,iOS Developer,10.73,8.114
+269,iOS Developer,9.62,8.112
+58,DevOps Engineer,10.38,8.108
+456,PHP Developer,9.93,8.107999999999999
+853,DevOps Engineer,9.52,8.105999999999998
+924,Django Developer,10.03,8.104
+1666,Django Developer,9.41,8.1
+6,Full Stack Developer,8.79,8.1
+121,Django Developer,11.11,8.097999999999999
+518,Java Developer,10.39,8.086
+1341,Database Administrator,12.9,8.084
+407,Network Administrator,12.95,8.078
+2239,DevOps Engineer,11.12,8.076
+1673,Wordpress Developer,10.52,8.07
+2096,Backend Developer,8.66,8.068000000000001
+1786,iOS Developer,8.66,8.068000000000001
+647,Machine Learning,9.48,8.062000000000001
+791,Machine Learning,9.6,8.059999999999999
+1000,Node js developer,9.68,8.059999999999999
+1808,iOS Developer,13.54,8.053999999999998
+7,JavaScript Developer,10.45,8.053999999999998
+2112,JavaScript Developer,10.3,8.041999999999998
+1268,JavaScript Developer,10.61,8.040000000000001
+150,Django Developer,10.31,8.032
+1822,Software Engineer,8.7,8.030000000000001
+1558,PHP Developer,9.72,8.026
+1757,Database Administrator,10.52,8.026
+1622,Backend Developer,9.4,8.02
+635,DevOps Engineer,11.86,8.016
+571,iOS Developer,9.5,8.010000000000002
+1893,JavaScript Developer,9.27,8.008
+1030,Wordpress Developer,8.89,8.006
+352,Full Stack Developer,11.85,8.006
+1234,Flutter Developer,8.58,8.004000000000001
+1895,Software Engineer,10.89,7.998
+1027,Network Administrator,16.17,7.997999999999999
+763,iOS Developer,11.49,7.994
+1820,Wordpress Developer,9.72,7.986
+1938,Database Administrator,13.3,7.976000000000002
+1669,Backend Developer,11.66,7.976000000000001
+1132,iOS Developer,10.15,7.975999999999999
+907,Flutter Developer,10.32,7.975999999999999
+1500,PHP Developer,11.19,7.9719999999999995
+2051,Database Administrator,9.92,7.969999999999999
+800,Node js developer,12.38,7.964
+1660,Backend Developer,8.68,7.958
+1342,DevOps Engineer,11.34,7.952
+1737,JavaScript Developer,16.8,7.948
+1801,Node js developer,9.79,7.943999999999998
+1548,Software Engineer,12.76,7.934
+1413,Database Administrator,9.92,7.9319999999999995
+993,Django Developer,10.52,7.929999999999998
+420,Database Administrator,12.25,7.928
+678,PHP Developer,9.83,7.926
+380,Wordpress Developer,9.83,7.926
+1606,Java Developer,11.31,7.925999999999999
+2199,Django Developer,13.19,7.9239999999999995
+670,PHP Developer,9.21,7.920000000000002
+470,Machine Learning,11.08,7.92
+1356,Backend Developer,8.59,7.917999999999999
+545,Machine Learning,10.5,7.9159999999999995
+830,Software Engineer,9.09,7.9159999999999995
+895,Django Developer,9.13,7.912000000000001
+2120,Full Stack Developer,16.86,7.912000000000001
+2065,Java Developer,9.96,7.906000000000001
+944,Flutter Developer,9.5,7.906000000000001
+2195,Flutter Developer,10.89,7.904000000000001
+1736,Software Engineer,13.09,7.897999999999999
+957,DevOps Engineer,9.24,7.886
+1868,Software Engineer,9.64,7.886
+291,Node js developer,9.11,7.883999999999999
+1611,DevOps Engineer,8.52,7.882
+2010,Machine Learning,8.74,7.882
+1720,Django Developer,9.91,7.88
+497,Django Developer,13.81,7.88
+2035,JavaScript Developer,10.43,7.878
+2194,Java Developer,8.52,7.878
+1886,Flutter Developer,8.39,7.878
+381,Node js developer,8.37,7.8759999999999994
+467,Django Developer,9.75,7.861999999999999
+1002,Machine Learning,8.64,7.859999999999999
+1587,PHP Developer,8.9,7.858000000000001
+383,Java Developer,9.86,7.856
+443,Machine Learning,10.68,7.853999999999999
+1738,Java Developer,9.4,7.851999999999999
+1898,Wordpress Developer,9.35,7.85
+1210,JavaScript Developer,12.02,7.849999999999999
+1599,JavaScript Developer,9.96,7.8420000000000005
+1954,Network Administrator,8.51,7.841999999999999
+100,Machine Learning,10.11,7.836
+398,Backend Developer,10.72,7.8340000000000005
+15,Java Developer,8.68,7.833999999999999
+866,Software Engineer,15.8,7.828
+348,Java Developer,8.76,7.8260000000000005
+596,Software Engineer,9.4,7.8180000000000005
+170,PHP Developer,10.26,7.816
+1237,Django Developer,8.45,7.811999999999999
+995,JavaScript Developer,9.82,7.81
+1480,DevOps Engineer,14.07,7.81
+1646,Django Developer,10.4,7.808
+29,JavaScript Developer,9.28,7.807999999999998
+1512,DevOps Engineer,9.43,7.803999999999999
+1328,Full Stack Developer,8.34,7.799999999999999
+51,DevOps Engineer,11.92,7.797999999999999
+747,JavaScript Developer,11.53,7.796000000000001
+1040,Network Administrator,13.46,7.796000000000001
+766,Machine Learning,9.67,7.794
+178,Django Developer,9.67,7.792
+378,Backend Developer,11.2,7.792
+2140,Database Administrator,9.66,7.786000000000001
+64,iOS Developer,9.92,7.781999999999999
+1340,Backend Developer,11.31,7.779999999999999
+1890,Machine Learning,11.12,7.7780000000000005
+1032,Database Administrator,8.32,7.7780000000000005
+1067,Django Developer,9.12,7.776000000000001
+1913,Java Developer,10.56,7.773999999999999
+1172,JavaScript Developer,14.41,7.773999999999999
+418,Wordpress Developer,8.91,7.7700000000000005
+1884,iOS Developer,9.08,7.764
+205,Wordpress Developer,9.87,7.7639999999999985
+337,iOS Developer,9.64,7.7639999999999985
+1644,Java Developer,11.67,7.7620000000000005
+436,iOS Developer,10.04,7.7620000000000005
+1716,DevOps Engineer,14.43,7.761999999999999
+1723,Java Developer,10.7,7.7559999999999985
+208,Backend Developer,9.8,7.752000000000001
+1853,DevOps Engineer,12.44,7.752
+831,Wordpress Developer,8.92,7.746
+262,Full Stack Developer,9.79,7.742
+105,JavaScript Developer,9.04,7.742
+282,Java Developer,11.96,7.738000000000001
+1168,Database Administrator,10.03,7.734
+1499,Network Administrator,12.6,7.732000000000001
+492,iOS Developer,9.32,7.730000000000001
+1314,DevOps Engineer,11.02,7.716000000000001
+1843,Backend Developer,10.28,7.715999999999999
+978,JavaScript Developer,10.75,7.709999999999999
+129,Full Stack Developer,9.42,7.703999999999999
+1412,DevOps Engineer,9.13,7.702000000000001
+2057,Network Administrator,11.91,7.698
+798,PHP Developer,9.97,7.698
+1664,Software Engineer,14.81,7.697999999999999
+1022,PHP Developer,12.02,7.696
+2207,Database Administrator,8.04,7.696
+809,Flutter Developer,11.9,7.694000000000001
+1081,Wordpress Developer,8.59,7.694
+1491,Backend Developer,14.0,7.692
+1571,Wordpress Developer,10.0,7.69
+2266,Machine Learning,9.24,7.69
+962,PHP Developer,8.66,7.688
+1653,Full Stack Developer,9.47,7.686
+2214,Full Stack Developer,8.72,7.684
+1284,Software Engineer,10.19,7.6800000000000015
+451,Software Engineer,10.87,7.68
+1396,Node js developer,8.6,7.68
+790,Java Developer,8.09,7.68
+531,Flutter Developer,8.96,7.676
+465,Flutter Developer,11.52,7.675999999999999
+181,Backend Developer,11.52,7.675999999999999
+363,Full Stack Developer,9.21,7.674000000000001
+177,Software Engineer,11.83,7.6739999999999995
+818,Node js developer,9.69,7.6659999999999995
+1939,Backend Developer,8.7,7.661999999999999
+1457,Django Developer,10.78,7.661999999999999
+917,Backend Developer,13.9,7.659999999999999
+1766,Java Developer,12.3,7.656000000000001
+1947,Flutter Developer,11.23,7.655999999999999
+2108,Java Developer,12.32,7.653999999999999
+1444,DevOps Engineer,11.87,7.651999999999999
+611,Node js developer,8.61,7.651999999999999
+1380,Java Developer,8.88,7.65
+1241,Wordpress Developer,9.27,7.647999999999999
+817,Backend Developer,8.4,7.642
+986,Django Developer,9.41,7.640000000000001
+2101,Database Administrator,9.03,7.638
+238,Flutter Developer,10.05,7.632000000000001
+1028,iOS Developer,11.06,7.632
+1291,Flutter Developer,12.19,7.63
+752,iOS Developer,9.19,7.628
+344,Software Engineer,11.7,7.628
+1443,iOS Developer,7.98,7.628
+2090,Wordpress Developer,9.67,7.611999999999999
+1481,Java Developer,10.02,7.608000000000001
+554,Wordpress Developer,13.29,7.605999999999999
+901,Django Developer,11.08,7.604000000000001
+2273,Full Stack Developer,9.98,7.6
+296,DevOps Engineer,12.74,7.597999999999999
+767,iOS Developer,11.72,7.593999999999999
+1439,Node js developer,8.7,7.590000000000001
+1460,Software Engineer,10.02,7.586
+604,Flutter Developer,8.1,7.5840000000000005
+1697,Wordpress Developer,9.83,7.5840000000000005
+1406,Network Administrator,11.59,7.582000000000001
+1281,Node js developer,8.73,7.578
+1551,Wordpress Developer,8.66,7.578
+1600,Backend Developer,9.01,7.5760000000000005
+1782,Backend Developer,8.26,7.574
+272,iOS Developer,8.68,7.572
+161,Software Engineer,9.44,7.568
+1650,Network Administrator,12.78,7.564
+62,DevOps Engineer,8.38,7.564
+735,iOS Developer,9.16,7.562
+430,Django Developer,9.71,7.562
+1991,Software Engineer,10.89,7.558000000000002
+1713,iOS Developer,8.7,7.554
+1424,iOS Developer,11.52,7.554
+634,Java Developer,11.13,7.546000000000001
+1874,Backend Developer,9.88,7.546000000000001
+1099,iOS Developer,9.68,7.546000000000001
+246,Wordpress Developer,10.57,7.545999999999999
+1848,Wordpress Developer,9.79,7.544
+1725,Backend Developer,10.2,7.542
+1645,Wordpress Developer,7.78,7.540000000000001
+1681,Database Administrator,9.54,7.539999999999999
+2067,Software Engineer,11.04,7.539999999999999
+1799,Network Administrator,12.42,7.538000000000001
+731,Django Developer,9.18,7.533999999999999
+2114,Node js developer,12.44,7.531999999999999
+1102,Flutter Developer,9.94,7.522
+1953,Wordpress Developer,8.66,7.522
+495,Network Administrator,7.86,7.518000000000001
+461,JavaScript Developer,7.8,7.516
+106,iOS Developer,10.02,7.514
+1311,DevOps Engineer,10.15,7.514
+1388,Software Engineer,10.0,7.5120000000000005
+1431,iOS Developer,11.94,7.5120000000000005
+616,DevOps Engineer,13.12,7.511999999999999
+1826,Database Administrator,13.98,7.51
+188,PHP Developer,12.21,7.508
+2056,JavaScript Developer,7.79,7.5040000000000004
+191,Django Developer,8.09,7.5
+1726,DevOps Engineer,8.22,7.498
+832,iOS Developer,9.15,7.4959999999999996
+111,Java Developer,8.07,7.492
+146,Full Stack Developer,8.7,7.489999999999999
+368,Flutter Developer,10.61,7.4879999999999995
+1345,Machine Learning,10.0,7.486
+1166,JavaScript Developer,8.77,7.4799999999999995
+1430,Java Developer,11.44,7.478
+2091,Database Administrator,9.42,7.478
+1582,DevOps Engineer,11.77,7.478
+130,DevOps Engineer,11.64,7.476000000000001
+568,Database Administrator,8.45,7.475999999999999
+27,Django Developer,9.28,7.475999999999999
+355,Database Administrator,10.84,7.473999999999999
+880,DevOps Engineer,8.36,7.4719999999999995
+1950,Flutter Developer,8.22,7.4719999999999995
+2088,Network Administrator,13.18,7.464
+1021,Django Developer,11.52,7.463999999999999
+1519,Django Developer,11.38,7.461999999999999
+699,Software Engineer,9.68,7.459999999999999
+613,Flutter Developer,11.09,7.458
+1505,Java Developer,9.93,7.458
+447,Full Stack Developer,9.35,7.457999999999998
+625,Database Administrator,13.18,7.456
+646,Wordpress Developer,8.68,7.454000000000001
+1101,DevOps Engineer,10.22,7.452000000000001
+1727,Database Administrator,11.78,7.447999999999999
+2145,PHP Developer,9.85,7.442000000000002
+1420,Wordpress Developer,9.59,7.442
+261,Backend Developer,12.07,7.442
+314,Wordpress Developer,8.99,7.436
+705,PHP Developer,10.9,7.434
+1185,Machine Learning,9.57,7.4319999999999995
+18,Database Administrator,9.01,7.428
+1748,Backend Developer,10.55,7.422
+586,iOS Developer,8.74,7.418000000000001
+1414,Node js developer,8.87,7.414
+2213,Node js developer,11.8,7.412000000000001
+1019,Machine Learning,9.1,7.411999999999999
+279,PHP Developer,14.04,7.4079999999999995
+1309,iOS Developer,10.55,7.406000000000001
+645,Wordpress Developer,9.77,7.405999999999999
+2245,Java Developer,8.09,7.404000000000001
+834,Java Developer,10.64,7.403999999999999
+356,Software Engineer,9.09,7.401999999999999
+1985,Node js developer,12.77,7.397999999999999
+487,Wordpress Developer,11.28,7.394
+1728,Backend Developer,7.91,7.386
+973,Network Administrator,15.76,7.384
+2197,Django Developer,8.69,7.384
+267,DevOps Engineer,11.77,7.3759999999999994
+994,DevOps Engineer,11.96,7.3740000000000006
+96,Machine Learning,10.9,7.368
+1459,Database Administrator,13.6,7.367999999999999
+1860,Node js developer,12.92,7.366
+1513,Node js developer,12.66,7.362
+1052,Node js developer,12.88,7.362
+176,Java Developer,8.7,7.361999999999999
+2003,Node js developer,11.65,7.359999999999999
+737,Wordpress Developer,9.94,7.358
+65,Flutter Developer,16.0,7.356
+1663,Django Developer,8.52,7.345999999999999
+2082,Machine Learning,7.93,7.339999999999999
+1504,Database Administrator,12.65,7.3340000000000005
+511,iOS Developer,14.35,7.33
+338,Backend Developer,9.23,7.328
+1751,JavaScript Developer,10.42,7.328
+459,Backend Developer,8.4,7.324000000000001
+187,Flutter Developer,10.06,7.324000000000001
+249,JavaScript Developer,13.07,7.322
+1918,Node js developer,11.5,7.322
+1750,Node js developer,11.28,7.32
+2,Machine Learning,8.45,7.3199999999999985
+1675,Django Developer,11.04,7.3180000000000005
+40,Software Engineer,9.59,7.316000000000001
+435,Database Administrator,9.53,7.316
+1327,Network Administrator,13.09,7.316
+955,PHP Developer,9.3,7.314
+358,PHP Developer,7.87,7.314
+206,Django Developer,10.25,7.31
+1642,Network Administrator,10.99,7.308
+2126,iOS Developer,8.3,7.306
+2200,Django Developer,8.27,7.303999999999999
+402,Machine Learning,8.24,7.302000000000001
+1097,Database Administrator,7.51,7.3
+2189,JavaScript Developer,10.77,7.3
+894,DevOps Engineer,9.28,7.296000000000001
+1029,Node js developer,10.27,7.296000000000001
+1897,DevOps Engineer,11.64,7.295999999999999
+109,JavaScript Developer,10.17,7.292
+1199,Backend Developer,9.46,7.287999999999999
+1171,Node js developer,10.13,7.284000000000001
+1694,iOS Developer,8.81,7.2780000000000005
+77,Wordpress Developer,9.04,7.275999999999999
+390,Wordpress Developer,11.49,7.2700000000000005
+264,Node js developer,9.32,7.267999999999999
+515,Java Developer,11.08,7.266000000000001
+1123,Full Stack Developer,9.52,7.2620000000000005
+346,Machine Learning,10.67,7.26
+1425,PHP Developer,10.14,7.258
+1277,JavaScript Developer,12.88,7.258
+1837,DevOps Engineer,8.53,7.2559999999999985
+1232,Java Developer,9.76,7.254
+1471,Software Engineer,8.9,7.252
+541,Full Stack Developer,8.61,7.25
+1946,Software Engineer,7.75,7.248
+1844,Flutter Developer,11.49,7.2459999999999996
+2205,Database Administrator,10.22,7.2440000000000015
+491,Node js developer,9.1,7.244
+1698,Machine Learning,8.71,7.242
+2032,Flutter Developer,9.46,7.239999999999999
+1702,JavaScript Developer,8.46,7.2379999999999995
+395,DevOps Engineer,11.65,7.2379999999999995
+1870,Django Developer,12.82,7.236
+686,Network Administrator,11.84,7.236
+756,Full Stack Developer,8.96,7.236
+891,iOS Developer,10.17,7.231999999999999
+1287,Node js developer,12.94,7.2299999999999995
+382,DevOps Engineer,9.59,7.228
+1989,Flutter Developer,8.44,7.228
+1319,Java Developer,10.81,7.228
+2185,Wordpress Developer,8.64,7.228
+933,Software Engineer,10.81,7.228
+1217,Machine Learning,11.07,7.228
+1964,Full Stack Developer,8.76,7.226000000000001
+1392,Flutter Developer,9.88,7.224000000000001
+2052,Software Engineer,12.56,7.2219999999999995
+2276,Full Stack Developer,8.95,7.218000000000001
+1387,Database Administrator,9.1,7.218000000000001
+294,Flutter Developer,8.16,7.218000000000001
+1304,Node js developer,8.97,7.218000000000001
+820,Software Engineer,10.66,7.217999999999999
+601,PHP Developer,9.37,7.215999999999999
+1330,Backend Developer,8.86,7.214
+764,Django Developer,14.67,7.212000000000001
+660,Machine Learning,9.22,7.210000000000001
+1495,Java Developer,8.28,7.209999999999999
+1176,Wordpress Developer,9.16,7.208
+1355,Node js developer,11.19,7.196
+653,DevOps Engineer,11.22,7.194
+1263,Full Stack Developer,8.5,7.192
+1175,Backend Developer,8.51,7.184
+405,iOS Developer,8.2,7.1819999999999995
+1903,DevOps Engineer,11.66,7.178
+792,Software Engineer,10.18,7.176
+2144,Database Administrator,11.51,7.175999999999999
+1001,Node js developer,7.67,7.175999999999999
+1746,Backend Developer,8.0,7.1739999999999995
+263,Machine Learning,9.13,7.17
+512,PHP Developer,9.37,7.1659999999999995
+1561,Java Developer,9.07,7.164
+1316,Java Developer,9.71,7.1579999999999995
+1693,Java Developer,8.68,7.153999999999999
+163,Software Engineer,10.25,7.153999999999999
+969,PHP Developer,10.59,7.151999999999999
+1889,Backend Developer,12.3,7.142
+1379,Backend Developer,9.0,7.138
+1084,Flutter Developer,8.01,7.136
+667,Django Developer,11.85,7.136
+2094,Node js developer,9.08,7.136
+558,Node js developer,8.78,7.133999999999999
+585,Software Engineer,8.03,7.132
+1767,Node js developer,11.52,7.13
+1120,PHP Developer,8.94,7.128
+1624,iOS Developer,9.06,7.126
+2180,DevOps Engineer,8.27,7.1259999999999994
+1845,Backend Developer,7.92,7.1240000000000006
+1348,Database Administrator,8.2,7.124
+391,JavaScript Developer,10.82,7.122
+990,Java Developer,8.48,7.116
+1743,Wordpress Developer,10.94,7.114
+1612,Java Developer,13.8,7.109999999999999
+1503,Flutter Developer,7.52,7.109999999999999
+2013,DevOps Engineer,17.68,7.1
+908,Node js developer,11.22,7.098000000000001
+1809,JavaScript Developer,8.95,7.097999999999999
+1025,Machine Learning,10.15,7.096000000000001
+1552,Software Engineer,10.61,7.0920000000000005
+112,Java Developer,10.61,7.0920000000000005
+157,JavaScript Developer,8.66,7.091999999999999
+1747,Flutter Developer,7.6,7.090000000000001
+1100,Backend Developer,9.07,7.0840000000000005
+14,Software Engineer,11.99,7.081999999999999
+12,Machine Learning,9.3,7.0760000000000005
+1771,Wordpress Developer,7.87,7.0760000000000005
+1578,Node js developer,8.37,7.074
+2103,Flutter Developer,10.57,7.066
+2002,Database Administrator,8.06,7.066
+1293,Node js developer,9.2,7.062
+1926,iOS Developer,9.15,7.058
+148,Full Stack Developer,10.17,7.058
+687,Node js developer,8.5,7.058
+666,Network Administrator,12.03,7.056
+1091,Full Stack Developer,8.73,7.053999999999999
+28,DevOps Engineer,11.91,7.052000000000001
+310,Machine Learning,9.79,7.048
+551,Database Administrator,10.57,7.039999999999999
+1591,Database Administrator,8.53,7.037999999999999
+498,Django Developer,8.61,7.034000000000001
+1299,Java Developer,8.39,7.034000000000001
+1047,Node js developer,8.54,7.034000000000001
+2275,Machine Learning,7.97,7.032000000000001
+1569,JavaScript Developer,10.37,7.031999999999999
+845,Backend Developer,8.4,7.026000000000001
+373,Software Engineer,7.91,7.024000000000001
+1539,Flutter Developer,8.48,7.024000000000001
+1264,Wordpress Developer,8.01,7.018000000000001
+1570,Java Developer,8.85,7.018000000000001
+1488,Machine Learning,8.22,7.017999999999999
+2225,Database Administrator,8.47,7.01
+1320,PHP Developer,9.36,7.008
+1567,Full Stack Developer,7.64,7.006
+2006,iOS Developer,9.97,7.0040000000000004
+1437,Wordpress Developer,7.49,7.002
+1613,JavaScript Developer,10.74,7.002
+1849,JavaScript Developer,8.32,7.002
+1932,Machine Learning,9.12,7.0
+2191,Java Developer,11.28,6.997999999999999
+1974,PHP Developer,9.52,6.997999999999999
+1072,Django Developer,9.21,6.996
+2133,DevOps Engineer,9.26,6.9959999999999996
+1623,JavaScript Developer,10.21,6.994
+626,Database Administrator,11.01,6.992
+1742,DevOps Engineer,13.79,6.991999999999999
+1588,Backend Developer,8.22,6.982000000000001
+882,Django Developer,8.2,6.976000000000001
+1566,DevOps Engineer,10.21,6.974000000000001
+2274,Network Administrator,9.86,6.9719999999999995
+503,JavaScript Developer,7.68,6.970000000000001
+1564,Node js developer,9.26,6.968000000000001
+63,JavaScript Developer,8.35,6.968000000000001
+202,Backend Developer,8.45,6.964
+594,iOS Developer,10.52,6.964
+575,Full Stack Developer,8.42,6.958000000000001
+720,Node js developer,9.05,6.958
+1004,Node js developer,10.84,6.955999999999999
+1976,Wordpress Developer,8.15,6.952
+1696,Database Administrator,9.18,6.95
+928,Backend Developer,9.68,6.95
+1988,PHP Developer,9.2,6.95
+2202,iOS Developer,9.15,6.95
+527,Machine Learning,8.8,6.946
+1449,Django Developer,10.25,6.944
+1780,Node js developer,7.84,6.942
+540,iOS Developer,10.62,6.942
+127,Software Engineer,10.48,6.94
+328,Machine Learning,10.48,6.94
+721,Node js developer,10.62,6.938
+1114,DevOps Engineer,9.22,6.934
+782,Database Administrator,7.37,6.93
+169,Wordpress Developer,9.03,6.928
+336,Software Engineer,9.9,6.926
+248,Full Stack Developer,7.41,6.9239999999999995
+1470,Backend Developer,9.77,6.9239999999999995
+315,Java Developer,12.85,6.922
+734,Backend Developer,7.44,6.922
+1509,Full Stack Developer,8.88,6.918000000000001
+2155,Flutter Developer,12.54,6.917999999999999
+317,Django Developer,8.72,6.914
+1332,JavaScript Developer,9.09,6.913999999999999
+2204,Database Administrator,11.0,6.912000000000001
+1824,Database Administrator,8.09,6.909999999999999
+695,Django Developer,10.08,6.904000000000001
+1831,Machine Learning,7.64,6.9
+1940,Java Developer,8.3,6.896000000000001
+1138,Node js developer,11.99,6.896000000000001
+1429,Full Stack Developer,9.76,6.896000000000001
+1366,PHP Developer,9.46,6.894
+888,DevOps Engineer,16.32,6.890000000000001
+929,Full Stack Developer,12.61,6.884
+116,Software Engineer,9.41,6.880000000000001
+22,JavaScript Developer,8.56,6.8759999999999994
+1473,DevOps Engineer,7.87,6.8740000000000006
+1402,Flutter Developer,7.37,6.87
+555,Java Developer,10.06,6.866000000000001
+1640,Node js developer,8.06,6.866
+2247,PHP Developer,8.1,6.853999999999999
+362,Django Developer,12.54,6.851999999999999
+1516,Backend Developer,7.89,6.848000000000001
+60,Machine Learning,7.87,6.848000000000001
+1777,Machine Learning,8.03,6.847999999999999
+1687,Machine Learning,9.87,6.843999999999999
+1764,iOS Developer,8.03,6.843999999999999
+725,DevOps Engineer,12.29,6.843999999999999
+1422,Machine Learning,7.77,6.841999999999999
+2036,Django Developer,9.01,6.837999999999999
+1630,Backend Developer,8.56,6.836
+2161,PHP Developer,8.07,6.8340000000000005
+440,Machine Learning,9.48,6.8340000000000005
+772,Django Developer,11.14,6.8340000000000005
+215,Wordpress Developer,8.59,6.8340000000000005
+1216,Backend Developer,7.58,6.828
+744,Software Engineer,10.65,6.8260000000000005
+2068,Full Stack Developer,13.34,6.8199999999999985
+1142,JavaScript Developer,8.54,6.811999999999999
+194,JavaScript Developer,8.6,6.811999999999999
+431,DevOps Engineer,12.5,6.8100000000000005
+1400,Software Engineer,10.05,6.81
+1709,DevOps Engineer,9.02,6.806
+1039,DevOps Engineer,8.91,6.8
+1911,iOS Developer,9.9,6.8
+724,DevOps Engineer,11.88,6.796000000000001
+1920,Java Developer,7.48,6.790000000000001
+1049,Node js developer,7.23,6.790000000000001
+93,JavaScript Developer,9.72,6.789999999999999
+414,Backend Developer,10.18,6.786
+761,Backend Developer,8.28,6.784000000000001
+1103,Django Developer,7.87,6.781999999999999
+739,Node js developer,10.64,6.781999999999999
+1993,DevOps Engineer,10.8,6.780000000000001
+305,Wordpress Developer,8.6,6.7780000000000005
+1533,Network Administrator,8.1,6.7780000000000005
+827,Machine Learning,9.4,6.774000000000001
+1235,PHP Developer,8.21,6.773999999999999
+1677,iOS Developer,7.73,6.772
+1200,Node js developer,9.6,6.7700000000000005
+707,PHP Developer,12.79,6.768000000000001
+126,DevOps Engineer,7.78,6.767999999999999
+1447,Software Engineer,10.28,6.767999999999999
+2146,Network Administrator,12.89,6.766
+844,Wordpress Developer,8.26,6.758
+2070,Flutter Developer,10.23,6.754
+394,JavaScript Developer,7.96,6.752
+1586,JavaScript Developer,7.96,6.752
+2098,iOS Developer,8.24,6.742
+1233,Django Developer,7.41,6.734
+1018,Backend Developer,9.08,6.733999999999999
+914,Wordpress Developer,8.23,6.732000000000001
+1873,Full Stack Developer,12.26,6.7299999999999995
+649,Database Administrator,7.75,6.728
+1300,Wordpress Developer,8.15,6.726000000000001
+2042,Software Engineer,8.21,6.7219999999999995
+357,DevOps Engineer,10.38,6.710000000000001
+1635,Backend Developer,8.79,6.708
+1053,Machine Learning,7.67,6.706
+1854,Flutter Developer,8.19,6.706
+471,PHP Developer,9.55,6.704000000000001
+345,DevOps Engineer,9.21,6.702
+525,JavaScript Developer,8.53,6.702
+1621,iOS Developer,8.81,6.696000000000001
+860,Django Developer,8.05,6.692
+773,Machine Learning,8.94,6.686
+1937,Java Developer,9.51,6.682
+1867,Database Administrator,9.44,6.68
+1370,Wordpress Developer,8.49,6.678
+323,Machine Learning,7.56,6.675999999999999
+1972,Full Stack Developer,8.26,6.67
+1941,Java Developer,7.76,6.669999999999999
+910,Java Developer,9.12,6.664
+1247,Wordpress Developer,7.27,6.663999999999999
+1486,Node js developer,7.42,6.6579999999999995
+225,Wordpress Developer,7.88,6.6579999999999995
+733,Django Developer,8.08,6.654000000000001
+1956,Node js developer,10.55,6.65
+1335,JavaScript Developer,8.35,6.645999999999999
+494,Machine Learning,8.14,6.644
+1912,Software Engineer,9.21,6.644
+1546,JavaScript Developer,8.64,6.644
+3,iOS Developer,9.47,6.644
+537,PHP Developer,9.22,6.638
+1967,Flutter Developer,9.13,6.634
+437,iOS Developer,7.79,6.632
+2190,Database Administrator,8.48,6.628
+1763,Flutter Developer,7.92,6.622
+1441,DevOps Engineer,7.98,6.622
+2012,Flutter Developer,7.53,6.618
+312,iOS Developer,9.7,6.618
+1125,Machine Learning,9.19,6.612
+1983,Java Developer,10.61,6.612
+622,Software Engineer,9.07,6.608000000000001
+2044,Backend Developer,7.7,6.608
+1892,Django Developer,7.7,6.608
+1128,JavaScript Developer,8.09,6.606
+1778,JavaScript Developer,8.09,6.606
+433,iOS Developer,7.02,6.593999999999999
+937,Network Administrator,7.17,6.593999999999999
+650,Java Developer,8.02,6.589999999999999
+524,Flutter Developer,8.57,6.586
+996,iOS Developer,8.56,6.586
+2267,Full Stack Developer,10.7,6.583999999999999
+619,Java Developer,7.88,6.580000000000001
+2173,JavaScript Developer,10.9,6.578
+1451,iOS Developer,11.0,6.574000000000001
+1042,JavaScript Developer,11.2,6.574
+1324,Full Stack Developer,7.09,6.57
+1343,DevOps Engineer,7.67,6.5699999999999985
+1213,DevOps Engineer,9.22,6.5680000000000005
+1482,DevOps Engineer,10.0,6.564
+218,Java Developer,10.02,6.5600000000000005
+1479,Flutter Developer,7.47,6.56
+1374,Network Administrator,11.34,6.558
+1078,Flutter Developer,7.45,6.556
+1308,Database Administrator,7.32,6.556
+56,DevOps Engineer,11.83,6.554
+1652,Wordpress Developer,8.11,6.553999999999999
+0,Flutter Developer,6.93,6.553999999999999
+884,Django Developer,8.64,6.552000000000001
+711,Flutter Developer,7.73,6.55
+1866,Full Stack Developer,8.28,6.55
+2073,Full Stack Developer,7.99,6.548
+959,Django Developer,8.57,6.547999999999999
+2153,Node js developer,7.26,6.544
+184,iOS Developer,7.87,6.542
+2081,DevOps Engineer,7.06,6.542
+1712,Flutter Developer,7.04,6.540000000000001
+1012,DevOps Engineer,10.44,6.540000000000001
+41,Software Engineer,9.72,6.538000000000001
+2043,Backend Developer,8.81,6.537999999999999
+1492,Database Administrator,8.17,6.532000000000001
+1531,PHP Developer,8.68,6.531999999999999
+295,Wordpress Developer,7.8,6.529999999999999
+2028,Machine Learning,8.13,6.5280000000000005
+1692,JavaScript Developer,8.15,6.5280000000000005
+1829,DevOps Engineer,7.98,6.523999999999999
+876,Full Stack Developer,7.08,6.514
+828,Software Engineer,8.49,6.5120000000000005
+536,Backend Developer,9.67,6.51
+1493,Database Administrator,8.77,6.51
+1882,Full Stack Developer,7.54,6.506
+1182,Full Stack Developer,7.58,6.506
+850,DevOps Engineer,10.19,6.502000000000001
+319,Machine Learning,6.74,6.502000000000001
+1339,Machine Learning,9.27,6.5
+1354,Network Administrator,11.23,6.494
+2249,Network Administrator,9.16,6.494
+2250,DevOps Engineer,7.24,6.492
+2223,Database Administrator,11.39,6.492
+1096,Full Stack Developer,7.03,6.4860000000000015
+1887,Wordpress Developer,7.84,6.486
+1734,Backend Developer,6.97,6.486
+2110,Machine Learning,8.06,6.481999999999999
+144,Flutter Developer,7.33,6.4799999999999995
+674,Database Administrator,7.2,6.476000000000001
+401,PHP Developer,8.63,6.474000000000001
+977,JavaScript Developer,10.51,6.468000000000001
+2167,Wordpress Developer,9.08,6.465999999999999
+1521,Backend Developer,7.99,6.465999999999999
+80,Node js developer,8.89,6.456
+1173,PHP Developer,7.73,6.448
+736,Full Stack Developer,9.65,6.448
+2005,Flutter Developer,7.91,6.442
+1639,Wordpress Developer,9.0,6.442
+1885,DevOps Engineer,10.18,6.44
+841,Flutter Developer,7.44,6.44
+207,DevOps Engineer,6.67,6.438
+2102,Java Developer,9.59,6.434
+416,Machine Learning,7.93,6.433999999999999
+462,Java Developer,8.7,6.428
+53,Node js developer,8.08,6.4159999999999995
+1816,Network Administrator,12.0,6.414
+224,Flutter Developer,7.72,6.412000000000001
+573,Java Developer,10.47,6.412000000000001
+814,Database Administrator,8.78,6.406000000000001
+954,Node js developer,13.77,6.401999999999999
+13,Software Engineer,9.58,6.392
+2021,Java Developer,7.24,6.392
+722,Flutter Developer,8.49,6.390000000000001
+67,JavaScript Developer,7.68,6.39
+1790,Java Developer,8.88,6.382
+199,Full Stack Developer,8.15,6.376
+49,Software Engineer,11.78,6.3759999999999994
+1683,DevOps Engineer,8.3,6.374
+1378,Full Stack Developer,7.51,6.372
+1381,Backend Developer,7.59,6.368
+2143,Software Engineer,7.54,6.364
+2169,Database Administrator,10.98,6.364
+412,Machine Learning,7.71,6.364
+1450,Java Developer,9.04,6.363999999999999
+1871,Wordpress Developer,7.06,6.356
+486,Full Stack Developer,7.89,6.354000000000001
+1812,Software Engineer,8.58,6.343999999999999
+631,Django Developer,7.14,6.340000000000001
+956,Node js developer,10.7,6.34
+1244,Backend Developer,7.41,6.3340000000000005
+271,iOS Developer,8.27,6.334
+1306,Django Developer,8.23,6.326
+1627,JavaScript Developer,8.65,6.326
+4,Full Stack Developer,7.02,6.3100000000000005
+213,Database Administrator,8.73,6.308000000000001
+813,JavaScript Developer,7.88,6.303999999999999
+333,Django Developer,7.51,6.296
+1719,Flutter Developer,8.63,6.295999999999999
+522,Machine Learning,10.15,6.292
+1254,iOS Developer,8.21,6.29
+1305,Database Administrator,7.99,6.288
+549,Software Engineer,8.25,6.286
+732,Java Developer,7.78,6.2780000000000005
+1758,JavaScript Developer,8.28,6.278
+851,Wordpress Developer,10.12,6.2700000000000005
+1317,Database Administrator,7.11,6.268
+2264,Backend Developer,8.18,6.264
+78,Full Stack Developer,9.68,6.260000000000001
+1752,Full Stack Developer,7.19,6.26
+1194,JavaScript Developer,7.65,6.26
+2230,iOS Developer,7.53,6.258
+1899,Django Developer,8.6,6.254
+2134,Node js developer,7.37,6.254
+911,Software Engineer,8.55,6.252000000000001
+1153,Java Developer,7.52,6.25
+285,Backend Developer,8.63,6.248
+1769,DevOps Engineer,9.58,6.244000000000001
+335,Database Administrator,7.76,6.244
+730,PHP Developer,6.51,6.244
+1609,Machine Learning,8.58,6.234
+1691,Software Engineer,8.58,6.234
+918,Machine Learning,6.76,6.232
+1162,Database Administrator,7.96,6.2299999999999995
+74,DevOps Engineer,12.36,6.228
+795,Backend Developer,8.14,6.2219999999999995
+2164,Backend Developer,7.15,6.2219999999999995
+1483,Software Engineer,7.39,6.22
+691,Flutter Developer,11.23,6.218000000000001
+473,Java Developer,8.22,6.218
+2139,Wordpress Developer,7.1,6.214
+1468,Network Administrator,10.77,6.2139999999999995
+275,Software Engineer,10.14,6.21
+241,PHP Developer,6.76,6.209999999999999
+620,DevOps Engineer,8.5,6.2059999999999995
+1184,Database Administrator,8.73,6.203999999999999
+482,Django Developer,6.85,6.198
+203,Full Stack Developer,9.6,6.1979999999999995
+1010,Database Administrator,9.8,6.196
+987,Machine Learning,7.33,6.196
+1242,JavaScript Developer,7.23,6.196
+1347,Django Developer,7.29,6.192
+1261,JavaScript Developer,7.7,6.19
+1453,PHP Developer,7.14,6.1899999999999995
+2099,Flutter Developer,6.87,6.1899999999999995
+21,Wordpress Developer,6.78,6.183999999999999
+520,Machine Learning,6.78,6.182
+2109,Wordpress Developer,8.03,6.1819999999999995
+83,Database Administrator,8.61,6.180000000000001
+742,Machine Learning,7.58,6.172
+2026,Java Developer,7.52,6.162000000000001
+400,DevOps Engineer,10.88,6.158
+2184,PHP Developer,7.52,6.1579999999999995
+941,JavaScript Developer,7.62,6.156000000000001
+2270,Database Administrator,6.75,6.154
+2206,Django Developer,8.76,6.152
+172,PHP Developer,6.75,6.15
+1565,Machine Learning,9.01,6.15
+1783,PHP Developer,8.24,6.143999999999999
+1008,JavaScript Developer,7.68,6.1419999999999995
+2107,Django Developer,7.6,6.138
+1036,Backend Developer,7.74,6.138
+862,Wordpress Developer,7.81,6.136
+703,JavaScript Developer,7.83,6.13
+186,PHP Developer,7.77,6.126
+1191,Wordpress Developer,6.82,6.126
+1620,Software Engineer,8.17,6.1259999999999994
+1732,DevOps Engineer,7.06,6.1240000000000006
+552,Database Administrator,7.41,6.118
+1074,Flutter Developer,7.35,6.114
+1700,Database Administrator,8.42,6.114
+840,Machine Learning,6.77,6.112
+2079,Machine Learning,7.81,6.112
+1440,iOS Developer,7.49,6.106
+341,Machine Learning,7.63,6.098
+2072,Software Engineer,8.75,6.096
+1919,Database Administrator,7.22,6.0920000000000005
+1631,iOS Developer,8.79,6.088
+2128,JavaScript Developer,7.56,6.084
+2224,JavaScript Developer,7.56,6.084
+1349,Django Developer,9.47,6.078
+2046,Django Developer,6.54,6.076
+278,JavaScript Developer,9.01,6.07
+1549,PHP Developer,7.96,6.07
+748,iOS Developer,6.97,6.064
+1814,Machine Learning,7.95,6.054
+448,Software Engineer,6.95,6.054
+793,Full Stack Developer,7.43,6.052
+2272,Backend Developer,7.35,6.050000000000001
+1048,Flutter Developer,7.66,6.05
+138,JavaScript Developer,7.46,6.048
+23,Database Administrator,8.58,6.048
+2259,Machine Learning,7.81,6.034000000000001
+896,Flutter Developer,7.09,6.03
+284,Database Administrator,10.52,6.029999999999999
+1375,Backend Developer,9.68,6.026000000000001
+612,JavaScript Developer,7.78,6.026
+1243,iOS Developer,7.9,6.024
+1961,DevOps Engineer,11.1,6.023999999999999
+1357,Node js developer,9.61,6.022
+1129,iOS Developer,7.09,6.02
+57,Wordpress Developer,7.0,6.014
+2040,Database Administrator,8.69,6.0120000000000005
+569,Software Engineer,8.6,6.012
+2124,Java Developer,8.96,6.012
+696,Software Engineer,8.06,6.01
+606,Django Developer,8.9,6.006
+360,Django Developer,6.99,6.006
+1963,Database Administrator,9.11,6.004
+354,DevOps Engineer,8.69,6.002
+1062,Software Engineer,9.73,5.9959999999999996
+506,Flutter Developer,7.48,5.991999999999999
+2045,Database Administrator,6.87,5.99
+2231,Software Engineer,8.1,5.9879999999999995
+728,Database Administrator,6.93,5.986000000000001
+92,Machine Learning,7.39,5.9799999999999995
+1559,Database Administrator,8.32,5.979999999999999
+1246,Node js developer,7.23,5.978
+1658,Java Developer,8.49,5.976000000000001
+1409,Full Stack Developer,7.78,5.974
+2246,Django Developer,6.86,5.9719999999999995
+1572,iOS Developer,6.61,5.970000000000001
+140,Full Stack Developer,6.74,5.968
+1610,DevOps Engineer,8.76,5.967999999999999
+30,Machine Learning,7.16,5.964
+921,PHP Developer,10.0,5.962
+1368,Flutter Developer,8.85,5.96
+510,JavaScript Developer,8.48,5.958
+86,Database Administrator,8.16,5.954
+496,Machine Learning,7.1,5.953999999999999
+183,Wordpress Developer,8.65,5.952
+689,Machine Learning,6.84,5.95
+2183,Flutter Developer,6.74,5.9479999999999995
+1670,DevOps Engineer,8.53,5.94
+2049,Flutter Developer,8.63,5.932
+542,Java Developer,7.17,5.928000000000001
+2212,Software Engineer,6.56,5.926
+276,Java Developer,6.69,5.9239999999999995
+1472,Django Developer,6.13,5.918
+899,Full Stack Developer,8.1,5.9159999999999995
+1667,Network Administrator,23.31,5.9079999999999995
+1819,Machine Learning,8.21,5.9079999999999995
+1212,Wordpress Developer,7.6,5.906000000000001
+723,PHP Developer,9.06,5.906000000000001
+1556,Full Stack Developer,8.07,5.901999999999999
+212,Full Stack Developer,7.06,5.8999999999999995
+974,iOS Developer,7.12,5.896
+780,Flutter Developer,7.27,5.884
+632,DevOps Engineer,9.71,5.88
+409,Java Developer,8.51,5.8759999999999994
+1005,Backend Developer,6.56,5.872
+926,Database Administrator,10.07,5.868
+2059,Full Stack Developer,7.67,5.867999999999999
+1858,Java Developer,8.59,5.866
+808,Machine Learning,7.04,5.864
+1861,Network Administrator,8.95,5.862
+889,Backend Developer,7.5,5.86
+2083,Machine Learning,7.5,5.856
+609,Machine Learning,7.98,5.851999999999999
+469,DevOps Engineer,7.18,5.848000000000001
+298,Software Engineer,8.77,5.845999999999999
+1280,Machine Learning,7.24,5.844
+1169,Wordpress Developer,6.88,5.844
+1997,Software Engineer,6.56,5.843999999999999
+2131,iOS Developer,7.85,5.840000000000001
+1467,Software Engineer,6.92,5.838
+1477,JavaScript Developer,8.14,5.8260000000000005
+2141,Database Administrator,7.27,5.825999999999999
+1221,Network Administrator,7.54,5.822
+1731,Backend Developer,20.2,5.818
+849,Full Stack Developer,6.98,5.814
+1674,JavaScript Developer,7.72,5.8100000000000005
+293,Django Developer,9.08,5.804
+1003,DevOps Engineer,9.49,5.804
+1056,Database Administrator,8.12,5.8020000000000005
+1190,Flutter Developer,6.75,5.799999999999999
+1668,Database Administrator,7.07,5.798
+1538,Machine Learning,7.85,5.792
+2025,PHP Developer,6.44,5.792
+1394,Java Developer,8.35,5.79
+2257,Full Stack Developer,6.45,5.788
+98,Software Engineer,7.05,5.779999999999999
+922,Machine Learning,7.23,5.776
+1518,Machine Learning,6.9,5.774
+445,JavaScript Developer,6.43,5.7620000000000005
+1250,DevOps Engineer,8.66,5.7620000000000005
+716,Full Stack Developer,8.53,5.758000000000001
+2093,PHP Developer,7.95,5.754
+1628,Network Administrator,9.05,5.744
+1397,JavaScript Developer,7.18,5.7379999999999995
+316,Backend Developer,6.97,5.736
+1787,PHP Developer,7.87,5.736
+1688,Machine Learning,7.6,5.735999999999999
+1604,Java Developer,8.57,5.734
+2030,Database Administrator,6.0,5.732
+308,Full Stack Developer,8.47,5.724000000000001
+2111,Flutter Developer,6.66,5.724
+1093,JavaScript Developer,9.38,5.720000000000001
+1312,iOS Developer,6.63,5.715999999999999
+811,Flutter Developer,8.57,5.714
+1026,Node js developer,6.11,5.712
+1785,Software Engineer,8.1,5.712
+684,Database Administrator,7.31,5.7059999999999995
+1419,Machine Learning,7.68,5.704
+220,PHP Developer,8.11,5.699999999999999
+351,Machine Learning,8.96,5.6979999999999995
+2186,Flutter Developer,8.98,5.6979999999999995
+1043,DevOps Engineer,8.26,5.688
+2219,DevOps Engineer,8.72,5.686
+439,iOS Developer,7.46,5.682
+2148,Software Engineer,7.0,5.676
+829,PHP Developer,6.95,5.672
+2232,Django Developer,6.52,5.67
+2122,Full Stack Developer,6.43,5.662000000000001
+2047,Wordpress Developer,6.59,5.6579999999999995
+775,Machine Learning,8.02,5.656
+90,Machine Learning,7.15,5.654
+1478,PHP Developer,7.74,5.652
+1174,Node js developer,6.44,5.65
+340,JavaScript Developer,10.3,5.65
+904,Node js developer,7.15,5.65
+1065,Flutter Developer,9.17,5.644
+159,Django Developer,8.34,5.638
+759,Backend Developer,6.96,5.636
+19,DevOps Engineer,7.91,5.626
+1302,Full Stack Developer,9.57,5.6259999999999994
+1595,iOS Developer,7.17,5.6259999999999994
+1177,iOS Developer,7.86,5.624
+729,Backend Developer,5.87,5.62
+1634,DevOps Engineer,8.0,5.616
+1489,Full Stack Developer,13.62,5.609999999999999
+193,Django Developer,11.56,5.606
+165,JavaScript Developer,5.86,5.604000000000001
+1851,JavaScript Developer,11.66,5.604
+488,Wordpress Developer,7.03,5.6000000000000005
+386,Node js developer,6.61,5.6
+661,Flutter Developer,5.84,5.596
+948,Wordpress Developer,6.45,5.596
+1094,DevOps Engineer,7.08,5.595999999999999
+1390,Full Stack Developer,8.62,5.595999999999999
+476,Wordpress Developer,7.68,5.593999999999999
+1547,Database Administrator,6.9,5.586
+1761,JavaScript Developer,8.08,5.5840000000000005
+1682,Full Stack Developer,6.39,5.5760000000000005
+671,Node js developer,6.34,5.5760000000000005
+1931,Machine Learning,9.9,5.576
+1703,Flutter Developer,6.11,5.572
+1656,Wordpress Developer,7.93,5.566
+1454,Database Administrator,9.32,5.566
+39,PHP Developer,7.41,5.564
+2175,Wordpress Developer,6.04,5.5600000000000005
+837,Software Engineer,6.03,5.5520000000000005
+2092,DevOps Engineer,7.96,5.544
+311,Django Developer,6.15,5.540000000000001
+59,Wordpress Developer,6.17,5.536
+534,Database Administrator,6.11,5.532
+2029,Flutter Developer,6.74,5.530000000000001
+865,JavaScript Developer,7.24,5.529999999999999
+483,PHP Developer,6.72,5.529999999999999
+493,Wordpress Developer,7.08,5.526000000000001
+1227,iOS Developer,7.26,5.526
+1214,PHP Developer,6.03,5.512
+544,JavaScript Developer,6.87,5.508
+2268,Backend Developer,7.0,5.508
+979,Software Engineer,8.62,5.502000000000001
+1085,Backend Developer,6.99,5.502000000000001
+951,Backend Developer,6.49,5.502
+1145,Flutter Developer,7.33,5.502
+567,Full Stack Developer,8.83,5.500000000000001
+852,Flutter Developer,7.0,5.489999999999999
+2171,Full Stack Developer,9.48,5.486
+388,Full Stack Developer,7.14,5.478
+672,JavaScript Developer,5.92,5.474
+1136,Wordpress Developer,8.14,5.472
+1970,Machine Learning,5.88,5.4719999999999995
+627,Django Developer,6.76,5.4719999999999995
+690,PHP Developer,6.59,5.47
+1417,Backend Developer,7.09,5.467999999999999
+940,JavaScript Developer,9.7,5.465999999999999
+1773,JavaScript Developer,7.41,5.46
+1033,Database Administrator,7.63,5.454
+1435,Software Engineer,9.49,5.452
+79,Full Stack Developer,7.17,5.452
+1152,Wordpress Developer,5.98,5.45
+1218,Full Stack Developer,6.33,5.444
+548,DevOps Engineer,9.33,5.436
+681,Machine Learning,7.08,5.436
+591,Java Developer,7.89,5.433999999999999
+1739,Machine Learning,6.33,5.424
+321,Backend Developer,7.78,5.422
+236,DevOps Engineer,7.98,5.42
+1230,iOS Developer,6.97,5.412000000000001
+556,Software Engineer,7.44,5.408
+566,Backend Developer,6.46,5.404000000000001
+1629,Django Developer,5.75,5.404
+250,Java Developer,6.06,5.402
+1979,Database Administrator,5.63,5.398000000000001
+1779,Flutter Developer,6.26,5.398000000000001
+244,Full Stack Developer,7.74,5.395999999999999
+1754,Wordpress Developer,6.41,5.393999999999999
+499,Node js developer,8.56,5.392
+1469,iOS Developer,7.14,5.391999999999999
+1659,DevOps Engineer,5.67,5.39
+1113,Full Stack Developer,6.26,5.388000000000001
+331,Software Engineer,5.59,5.388
+1916,iOS Developer,7.06,5.38
+2188,Software Engineer,6.79,5.3759999999999994
+746,DevOps Engineer,8.05,5.372
+875,JavaScript Developer,7.54,5.3660000000000005
+1998,Machine Learning,5.71,5.366
+700,Flutter Developer,7.44,5.364
+863,Machine Learning,8.46,5.3580000000000005
+137,Node js developer,8.54,5.356
+2256,Database Administrator,9.77,5.348000000000001
+701,DevOps Engineer,6.6,5.347999999999999
+1209,Wordpress Developer,8.38,5.346
+999,Django Developer,6.53,5.346
+2106,Django Developer,7.14,5.336
+961,Full Stack Developer,5.83,5.3340000000000005
+33,Machine Learning,5.9,5.332
+777,Full Stack Developer,6.35,5.33
+1411,DevOps Engineer,10.07,5.33
+950,Software Engineer,5.81,5.326
+1423,iOS Developer,8.79,5.319999999999999
+454,Software Engineer,9.19,5.316000000000001
+788,PHP Developer,6.17,5.316000000000001
+438,Database Administrator,7.12,5.308
+1108,Flutter Developer,6.05,5.308
+1496,Backend Developer,6.6,5.305999999999999
+603,Wordpress Developer,7.47,5.302
+1331,DevOps Engineer,7.06,5.3
+1524,Full Stack Developer,5.91,5.298
+125,JavaScript Developer,6.48,5.298
+1104,Java Developer,10.41,5.2940000000000005
+297,Database Administrator,5.65,5.294
+2007,Database Administrator,6.96,5.292
+1641,Full Stack Developer,5.64,5.292
+302,Full Stack Developer,7.02,5.290000000000001
+1657,Java Developer,5.82,5.29
+1643,Software Engineer,6.64,5.288
+1955,Machine Learning,6.56,5.284
+2076,Database Administrator,5.49,5.276000000000001
+1775,Database Administrator,8.48,5.268000000000001
+648,JavaScript Developer,6.1,5.268
+2015,Machine Learning,5.56,5.266
+989,Database Administrator,6.35,5.264
+765,iOS Developer,8.04,5.263999999999999
+2063,iOS Developer,8.49,5.232000000000001
+931,Wordpress Developer,6.09,5.231999999999999
+76,JavaScript Developer,8.52,5.225999999999999
+2168,Machine Learning,6.06,5.224
+1994,Flutter Developer,6.0,5.223999999999999
+1948,iOS Developer,7.77,5.218
+204,Java Developer,6.02,5.217999999999999
+1148,Flutter Developer,5.95,5.21
+578,Full Stack Developer,5.85,5.21
+143,Machine Learning,5.53,5.208
+751,Backend Developer,6.35,5.198
+980,Database Administrator,6.53,5.194
+1930,DevOps Engineer,6.68,5.183999999999999
+1351,Software Engineer,6.96,5.1819999999999995
+2222,Backend Developer,6.66,5.1819999999999995
+2198,Wordpress Developer,8.13,5.176
+1856,Full Stack Developer,5.89,5.174
+1506,Java Developer,7.0,5.1739999999999995
+2060,Java Developer,7.87,5.17
+2123,DevOps Engineer,8.01,5.164
+1927,DevOps Engineer,8.36,5.162
+1883,Backend Developer,6.15,5.154
+283,DevOps Engineer,6.08,5.144
+1508,Software Engineer,5.91,5.1419999999999995
+1523,Node js developer,7.82,5.14
+171,Backend Developer,7.74,5.138
+37,Wordpress Developer,7.27,5.138
+633,DevOps Engineer,5.62,5.132
+1936,Django Developer,5.96,5.128
+676,JavaScript Developer,5.37,5.12
+2132,Machine Learning,5.33,5.119999999999999
+46,Machine Learning,7.21,5.1160000000000005
+2138,Flutter Developer,5.46,5.114
+2210,Database Administrator,5.47,5.106
+741,Machine Learning,5.97,5.104000000000001
+108,Machine Learning,6.49,5.103999999999999
+2066,Java Developer,6.48,5.1
+1784,Machine Learning,6.25,5.0840000000000005
+1369,JavaScript Developer,5.76,5.072
+1222,Database Administrator,7.31,5.068
+1179,Machine Learning,7.93,5.066
+1395,Software Engineer,7.52,5.0600000000000005
+1540,Wordpress Developer,6.47,5.058
+1557,Database Administrator,6.84,5.056
+638,Wordpress Developer,5.21,5.0520000000000005
+516,Java Developer,5.69,5.052
+1949,Backend Developer,6.06,5.05
+1608,DevOps Engineer,6.67,5.038
+1803,Machine Learning,6.29,5.034000000000001
+1239,Full Stack Developer,6.16,5.034
+1087,Java Developer,6.26,5.029999999999999
+1756,iOS Developer,7.09,5.024
+1399,JavaScript Developer,7.91,5.022
+915,Wordpress Developer,6.06,5.022
+579,Flutter Developer,7.02,5.016
+1730,Database Administrator,6.35,5.0120000000000005
+870,Full Stack Developer,6.93,5.010000000000001
+694,Full Stack Developer,7.35,5.01
+598,Machine Learning,5.63,5.008
+135,iOS Developer,7.34,5.0040000000000004
+2176,DevOps Engineer,6.7,5.002
+1359,JavaScript Developer,6.86,4.997999999999999
+770,DevOps Engineer,7.25,4.996
+2115,Java Developer,10.47,4.994
+1068,iOS Developer,5.46,4.986
+1105,Machine Learning,5.4,4.984
+255,DevOps Engineer,12.41,4.984
+1428,iOS Developer,6.55,4.982000000000001
+189,iOS Developer,6.59,4.970000000000001
+475,iOS Developer,6.59,4.970000000000001
+1421,DevOps Engineer,5.53,4.954
+2062,Machine Learning,5.81,4.944
+1969,Flutter Developer,5.43,4.942
+1292,PHP Developer,5.72,4.934
+576,PHP Developer,6.05,4.918000000000001
+953,Machine Learning,5.8,4.9159999999999995
+2182,Django Developer,6.66,4.914
+2064,Software Engineer,6.07,4.91
+1676,Machine Learning,5.42,4.9
+2234,Database Administrator,5.71,4.89
+1740,DevOps Engineer,10.36,4.888
+2125,PHP Developer,5.83,4.878
+1089,Java Developer,6.37,4.87
+1193,Machine Learning,5.46,4.87
+2033,Database Administrator,5.36,4.868
+1841,Wordpress Developer,6.7,4.86
+2014,iOS Developer,5.43,4.8420000000000005
+1560,Java Developer,5.3,4.842
+1776,PHP Developer,7.76,4.8340000000000005
+2097,Wordpress Developer,5.6,4.826
+1992,iOS Developer,5.16,4.82
+1046,DevOps Engineer,7.54,4.818
+1295,Backend Developer,5.63,4.818
+1923,Full Stack Developer,5.11,4.818
+174,JavaScript Developer,5.97,4.812
+846,Network Administrator,6.87,4.8020000000000005
+1458,JavaScript Developer,5.04,4.798
+685,Wordpress Developer,5.54,4.794
+11,Machine Learning,6.4,4.787999999999999
+1901,Full Stack Developer,6.47,4.786
+675,Full Stack Developer,6.56,4.779999999999999
+1240,Full Stack Developer,5.37,4.7540000000000004
+702,Full Stack Developer,10.87,4.742
+1637,iOS Developer,5.81,4.734
+164,Backend Developer,5.03,4.728
+1821,PHP Developer,8.87,4.720000000000001
+998,Java Developer,6.49,4.718
+1537,Full Stack Developer,5.2,4.717999999999999
+600,Wordpress Developer,6.97,4.71
+1671,Wordpress Developer,8.75,4.708
+789,iOS Developer,8.27,4.698
+1753,Software Engineer,5.6,4.6899999999999995
+1181,JavaScript Developer,4.93,4.6899999999999995
+796,Software Engineer,7.07,4.676
+784,Flutter Developer,14.52,4.672
+2038,Database Administrator,5.14,4.667999999999999
+682,Full Stack Developer,5.39,4.666
+618,Full Stack Developer,5.35,4.662
+662,Django Developer,6.79,4.662
+505,Full Stack Developer,5.99,4.66
+268,PHP Developer,5.73,4.652
+200,Flutter Developer,6.3,4.644
+1924,Database Administrator,5.95,4.640000000000001
+1098,Software Engineer,5.15,4.628
+153,Full Stack Developer,6.38,4.627999999999999
+2248,iOS Developer,7.34,4.6259999999999994
+20,Database Administrator,6.1,4.612
+1910,JavaScript Developer,5.39,4.608
+2031,Django Developer,7.36,4.6
+450,Backend Developer,5.87,4.587999999999999
+2089,Database Administrator,4.73,4.572000000000001
+1958,DevOps Engineer,8.44,4.571999999999999
+1121,Wordpress Developer,6.06,4.564
+1466,Software Engineer,5.57,4.5600000000000005
+848,Backend Developer,5.25,4.5600000000000005
+1154,Database Administrator,5.77,4.558
+535,Wordpress Developer,5.83,4.552
+1760,Machine Learning,5.7,4.550000000000001
+1869,Java Developer,4.9,4.546
+1361,DevOps Engineer,6.0,4.5440000000000005
+2069,Database Administrator,5.8,4.54
+154,Full Stack Developer,5.0,4.534
+1568,Database Administrator,4.91,4.532
+1248,Network Administrator,6.72,4.522
+428,Database Administrator,5.48,4.522
+1545,Machine Learning,5.54,4.496
+2193,Node js developer,6.13,4.49
+771,iOS Developer,7.19,4.488
+289,Machine Learning,5.74,4.4799999999999995
+1257,PHP Developer,4.74,4.478
+749,Database Administrator,4.8,4.46
+256,iOS Developer,5.43,4.458
+629,Java Developer,6.28,4.454
+758,Full Stack Developer,7.96,4.452
+984,Machine Learning,5.44,4.450000000000001
+1741,Network Administrator,8.42,4.4319999999999995
+2265,Node js developer,5.76,4.428
+2170,Software Engineer,5.54,4.4159999999999995
+114,Flutter Developer,5.95,4.412000000000001
+1270,Full Stack Developer,5.29,4.386
+69,Database Administrator,7.37,4.386
+624,Network Administrator,7.85,4.386
+740,Machine Learning,4.87,4.366
+1144,Full Stack Developer,6.15,4.35
+1618,Database Administrator,6.12,4.348000000000001
+485,Flutter Developer,8.42,4.337999999999999
+1981,Node js developer,7.14,4.336
+608,Wordpress Developer,4.91,4.33
+460,JavaScript Developer,6.46,4.322
+274,Software Engineer,6.68,4.316
+258,Full Stack Developer,4.94,4.304
+2181,Java Developer,6.02,4.303999999999999
+145,Java Developer,4.57,4.3
+2087,DevOps Engineer,8.9,4.29
+1205,Database Administrator,6.19,4.2620000000000005
+1272,Wordpress Developer,4.96,4.258
+423,iOS Developer,8.96,4.252000000000001
+2263,Full Stack Developer,4.54,4.25
+1579,Flutter Developer,5.69,4.244000000000001
+75,DevOps Engineer,5.78,4.236
+239,DevOps Engineer,5.65,4.218
+1060,DevOps Engineer,5.41,4.216
+369,Full Stack Developer,4.57,4.214
+1649,Java Developer,6.11,4.208
+1364,Software Engineer,4.4,4.192
+663,Software Engineer,5.73,4.19
+655,Flutter Developer,5.14,4.184
+683,iOS Developer,7.04,4.168
+327,Software Engineer,5.2,4.162000000000001
+2095,Machine Learning,4.74,4.15
+429,Network Administrator,6.79,4.142
+288,Full Stack Developer,4.65,4.130000000000001
+1662,Database Administrator,4.43,4.112
+712,Django Developer,4.91,4.112
+103,Database Administrator,5.21,4.1
+307,Java Developer,6.33,4.098000000000001
+1083,JavaScript Developer,6.17,4.0920000000000005
+371,Django Developer,5.63,4.08
+219,Flutter Developer,4.5,4.062
+26,Java Developer,4.7,4.05
+565,Machine Learning,4.56,4.037999999999999
+946,Network Administrator,4.21,4.032
+637,Database Administrator,4.41,4.029999999999999
+550,Network Administrator,13.58,4.026
+1881,Full Stack Developer,4.91,3.9899999999999998
+2261,Machine Learning,4.99,3.9880000000000004
+787,Django Developer,5.01,3.9879999999999995
+290,JavaScript Developer,4.79,3.9879999999999995
+318,Database Administrator,4.84,3.978
+304,Network Administrator,10.38,3.946
+938,Full Stack Developer,4.47,3.9240000000000004
+419,Machine Learning,6.92,3.9120000000000004
+1960,PHP Developer,5.3,3.91
+1325,Flutter Developer,4.19,3.8880000000000003
+562,Full Stack Developer,4.51,3.878000000000001
+871,Full Stack Developer,4.92,3.8480000000000003
+1525,DevOps Engineer,4.22,3.8339999999999996
+1690,Flutter Developer,4.18,3.8280000000000003
+1684,Wordpress Developer,4.78,3.81
+1215,JavaScript Developer,6.6,3.808
+329,Machine Learning,4.23,3.7939999999999996
+563,Full Stack Developer,4.79,3.7920000000000003
+195,JavaScript Developer,5.61,3.7560000000000002
+500,Backend Developer,5.86,3.75
+1626,DevOps Engineer,5.32,3.6980000000000004
+546,Backend Developer,4.14,3.69
+1024,Software Engineer,6.19,3.688
+1593,Flutter Developer,4.48,3.6759999999999997
+1020,Backend Developer,5.6,3.65
+1544,Wordpress Developer,4.18,3.5940000000000003
+1289,Full Stack Developer,3.86,3.592
+1463,PHP Developer,4.31,3.5799999999999996
+1710,Database Administrator,4.18,3.5740000000000003
+1654,Django Developer,4.52,3.5700000000000003
+1297,Flutter Developer,4.37,3.5559999999999996
+2174,Wordpress Developer,4.36,3.536
+2054,Machine Learning,4.05,3.528
+1163,Software Engineer,5.01,3.5
+644,JavaScript Developer,4.04,3.498
+1878,Node js developer,4.68,3.4899999999999998
+71,Django Developer,4.38,3.4839999999999995
+1550,Wordpress Developer,3.88,3.446
+45,Flutter Developer,6.84,3.436
+797,Node js developer,6.11,3.4219999999999997
+532,Wordpress Developer,8.95,3.3259999999999996
+1338,Software Engineer,3.73,3.3239999999999994
+1968,Django Developer,4.42,3.3020000000000005
+1729,Database Administrator,3.76,3.3
+621,Full Stack Developer,3.94,3.2980000000000005
+1432,Machine Learning,7.05,3.2840000000000003
+379,Node js developer,4.32,3.2560000000000002
+2203,iOS Developer,4.08,3.162
+1006,Software Engineer,3.57,3.0919999999999996
+1438,DevOps Engineer,3.57,3.0919999999999996
+2240,Machine Learning,3.98,2.996
+943,Wordpress Developer,3.59,2.946
+1475,Wordpress Developer,3.81,2.902
+502,iOS Developer,6.14,2.824
+61,JavaScript Developer,6.33,2.8200000000000003
+898,Machine Learning,7.35,2.7800000000000002
+826,Node js developer,8.0,2.748
+301,PHP Developer,3.17,2.71
+981,Full Stack Developer,3.14,2.6740000000000004
+577,Full Stack Developer,3.0,2.632
+490,Full Stack Developer,3.23,2.588
+480,iOS Developer,3.01,2.5420000000000003
+1907,Django Developer,3.63,2.4979999999999998
+581,iOS Developer,2.96,2.464
+1543,Wordpress Developer,2.96,2.464
+1490,Wordpress Developer,7.16,2.18
+768,Wordpress Developer,5.59,2.162
+101,Wordpress Developer,2.33,2.104
+478,Database Administrator,2.35,2.0360000000000005
+222,Node js developer,2.46,1.9959999999999998
+1208,DevOps Engineer,2.71,1.9100000000000001
+1135,iOS Developer,1.89,1.6420000000000001
+727,JavaScript Developer,1.56,1.4680000000000002
+1404,Django Developer,1.87,1.466
+1017,Network Administrator,1.35,1.262
+1590,JavaScript Developer,1.47,1.04
+1638,Full Stack Developer,1.24,0.8880000000000001
+1796,Software Engineer,0.68,0.438

@@ -1,0 +1,28 @@
+{
+  "final_decision": "NOT_CHEATED",
+  "confidence": 0.98,
+  "reasons": [
+    "Question was unavailable, so technical score is ignored.",
+    "Gaze integrity system indicates no cheating with high confidence.",
+    "Keystroke behavior shows low suspicion with minimal switches and no paste events."
+  ],
+  "recommended_action": "No further action required.",
+  "generated_at": "2026-02-12T10:58:59.841060",
+  "supporting_evidence": {
+    "question_missing": true,
+    "technical_score": 0,
+    "gaze_verdict": {
+      "verdict": "NOT_CHEATED",
+      "confidence": 1.0,
+      "reasons": [
+        "No suspicious events detected during the exam."
+      ],
+      "recommended_action": "No further action required."
+    },
+    "keystroke_summary": {
+      "max_prob": 0.9661,
+      "total_switches": 1,
+      "paste_events": 0
+    }
+  }
+}

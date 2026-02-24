@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Technical Assessment</title>
+    <style>
+        /* ... EXISTING CSS UNCHANGED ... */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .assessment-card {
+            background: white;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-top: 20px;
+        }
+
+        .q-box {
+            background: #f8f9fa;
+            border-left: 5px solid #667eea;
+            padding: 20px;
+            font-weight: 600;
+            font-size: 1.2rem;
+        }
+
+        .answer-area {
+            width: 100%;
+            height: 250px;
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+            font-family: inherit;
+            font-size: 1rem;
+        }
+
+        #loading-msg {
+            color: #764ba2;
+            font-style: italic;
+            display: none;
+            margin-bottom: 10px;
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-top: 30px;
+        }
+
+        .btn {
+            padding: 12px 30px;
+            border-radius: 25px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            border: none;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .btn-secondary {
+            background: white;
+            color: #667eea;
+            border: 2px solid #667eea;
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <div class="assessment-card">
+        <div class="result-header">
+            <h1>Technical Proctoring Test</h1>
+            <p>Candidate: {{ candidate_name }}</p>
+        </div>
+
+        <div class="q-box" id="question-display">Loading next question...</div>
+
+        <textarea id="answer-box" class="answer-area"
+                  placeholder="Write your technical explanation here..."></textarea>
+
+        <div id="loading-msg">Agent is evaluating your answer...</div>
+
+        <div class="action-buttons">
+            <button id="next-btn" class="btn btn-primary" onclick="submitAndNext()">
+                Submit & Next Question
+            </button>
+        </div>
+
+        <!-- ========================================================= -->
+        <!-- added by souhardya for displaying results on 2026-02-10 18:30 -->
+        <!-- ========================================================= -->
+        <div class="action-buttons" id="verdict-btn-container"
+             style="display: none; margin-top: 25px;">
+            <a href="/verdict/{{ sess_key }}" class="btn btn-secondary">
+                View Proctoring Verdict
+            </a>
+        </div>
+        <!-- ========================================================= -->
+
+    </div>
+</div>
+
+<script>
+    const sessKey = "{{ sess_key }}";
+
+    let integrity = {
+        backspace_count: 0,
+        switches: 0,
+        paste_count: 0,
+        ikl_times: [],
+        hold_times: [],
+        last_keyup_time: null,
+        keys_pressed: {},
+        mouse_click_count: 0
+    };
+
+    const box = document.getElementById('answer-box');
+
+    box.addEventListener('keydown', (e) => {
+        const now = Date.now();
+
+        if (e.key === 'Backspace') integrity.backspace_count++;
+
+        if (integrity.last_keyup_time) {
+            integrity.ikl_times.push(now - integrity.last_keyup_time);
+        }
+
+        if (!integrity.keys_pressed[e.key]) {
+            integrity.keys_pressed[e.key] = now;
+        }
+    });
+
+    box.addEventListener('keyup', (e) => {
+        const now = Date.now();
+        if (integrity.keys_pressed[e.key]) {
+            integrity.hold_times.push(now - integrity.keys_pressed[e.key]);
+            delete integrity.keys_pressed[e.key];
+        }
+        integrity.last_keyup_time = now;
+    });
+
+    box.addEventListener('paste', () => integrity.paste_count++);
+    window.onblur = () => integrity.switches++;
+    document.addEventListener('mousedown', () => integrity.mouse_click_count++);
+
+    async function fetchQuestion() {
+        const response = await fetch('/api/get_next_question', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({sess_key: sessKey})
+        });
+
+        const data = await response.json();
+
+        if (data.question === "COMPLETED") {
+            document.getElementById('question-display').innerText =
+                "Assessment Complete!";
+            box.style.display = "none";
+            document.getElementById('next-btn').style.display = "none";
+            document.getElementById('loading-msg').style.display = "none";
+
+            /* ========================================================= */
+            /* added by souhardya for displaying results on 2026-02-10 18:30 */
+            /* ========================================================= */
+            document.getElementById('verdict-btn-container').style.display = "flex";
+            /* ========================================================= */
+
+            return;
+        }
+
+        document.getElementById('question-display').innerText = data.question;
+        box.value = "";
+        integrity = {
+            backspace_count: 0,
+            switches: 0,
+            paste_count: 0,
+            ikl_times: [],
+            hold_times: [],
+            last_keyup_time: null,
+            keys_pressed: {},
+            mouse_click_count: 0
+        };
+    }
+
+    async function submitAndNext() {
+        const answer = box.value.trim();
+
+        if (answer.length < 10) {
+            alert("Please provide a more detailed answer.");
+            return;
+        }
+
+        if (integrity.ikl_times.length < 50) {
+            alert("Please type more to verify identity.");
+            return;
+        }
+
+        document.getElementById('loading-msg').style.display = 'block';
+        document.getElementById('next-btn').disabled = true;
+
+        await fetch('/api/submit_answer', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                sess_key: sessKey,
+                answer: answer,
+                integrity_data: integrity
+            })
+        });
+
+        document.getElementById('loading-msg').style.display = 'none';
+        document.getElementById('next-btn').disabled = false;
+        fetchQuestion();
+    }
+
+    window.onload = fetchQuestion;
+</script>
+</body>
+</html>
